@@ -1,0 +1,1017 @@
+requester_id,requester_email,recommender_id,requestor_notes,request_for,recomender_star_rating,recommender_notes,letter,status,reminders,created_date,completed_date
+U0018,req_u0018@demo.edu,U0031,Applying to Google. Your support would mean a lot to me.,Google,4,"Exceptional researcher, self-driven",,pending,0/3,1/15/2025,
+U0032,req_u0032@demo.edu,U0026,Would you be willing to write a recommendation for my Amazon application?,Amazon,3,"Adequate skills, improving steadily",,pending,0/3,7/01/2024,
+U0026,req_u0026@demo.edu,U0037,Applying to Stanford-MD Program. Your support would mean a lot to me.,Stanford-MD Program,5,"Strong problem solver, persistent","I strongly recommend this individual for Stanford-MD Program. Having worked closely with them, I can attest to their impressive technical expertise and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Stanford.",completed,1/3,3/12/2025,3/14/2025
+U0003,req_u0003@demo.edu,U0030,Would appreciate your recommendation for my application to Purdue-JD Program.,Purdue-JD Program,3,"Quick learner, eager to grow","I am pleased to recommend this individual for Purdue-JD Program. They have consistently demonstrated a sharp intellectual curiosity and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Purdue.",completed,0/3,2/09/2026,2/15/2026
+U0039,req_u0039@demo.edu,U0036,I'm applying to SpaceX and would really appreciate your recommendation.,SpaceX,4,"Natural leader, inspires others",,pending,2/3,8/11/2024,
+U0026,req_u0026@demo.edu,U0049,Seeking a recommendation for Economics For Leaders Summer Program. Thank you in advance.,Economics For Leaders Summer Program,4,"Outstanding work ethic, consistent",,cancelled,0/3,6/25/2025,
+U0040,req_u0040@demo.edu,U0035,Would you be willing to write a recommendation for my SpaceX application?,SpaceX,2,Capable but unremarkable so far,,completed,0/3,1/01/2025,1/07/2025
+U0005,req_u0005@demo.edu,U0002,I need a recommendation for Adobe. Could you speak to my skills?,Adobe,3,"Outstanding work ethic, consistent","I strongly recommend this individual for Adobe. Having worked closely with them, I can attest to their strong analytical skills and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Adobe.",completed,1/3,3/04/2025,3/14/2025
+U0032,req_u0032@demo.edu,U0020,I need a recommendation for Research Assistantship. Could you speak to my skills?,Research Assistantship,4,"Innovative thinker, proactive","I am writing to support this candidate's application to Research Assistantship. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their exceptional teamwork, I believe they are well-prepared for this opportunity at Research Assistantship.",completed,0/3,1/03/2025,1/10/2025
+U0003,req_u0003@demo.edu,U0042,Requesting a recommendation for Wayne State University. Happy to provide details.,Wayne State University,3,"Excellent communicator, team player","I strongly recommend this individual for Wayne State University. Having worked closely with them, I can attest to their outstanding leadership qualities and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Wayne State University.",completed,2/3,1/20/2026,1/28/2026
+U0023,req_u0023@demo.edu,U0037,Applying to Amazon. Your support would mean a lot to me.,Amazon,4,"Strong problem solver, persistent",,pending,0/3,11/04/2024,
+U0019,req_u0019@demo.edu,U0050,Could you recommend me for Stripe? Your perspective would carry weight.,Stripe,3,"Organized, meets every deadline","I am pleased to recommend this individual for Stripe. They have consistently demonstrated exceptional problem-solving abilities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed creative thinking and adaptability. I am confident they would be a valuable addition to Stripe.",completed,1/3,11/24/2025,11/30/2025
+U0007,req_u0007@demo.edu,U0039,Seeking a recommendation for NSF Fellowship. Thank you in advance.,NSF Fellowship,3,"Excellent communicator, team player",,pending,0/3,9/23/2024,
+U0011,req_u0011@demo.edu,U0036,Applying to MIT. Your support would mean a lot to me.,MIT,3,"Quick learner, eager to grow",,cancelled,0/3,10/26/2025,
+U0011,req_u0011@demo.edu,U0024,I need a recommendation for NSF Fellowship. Could you speak to my skills?,NSF Fellowship,3,"Average performer, room to grow",,pending,1/3,2/14/2026,
+U0015,req_u0015@demo.edu,U0045,Would you be willing to write a recommendation for my UCLA application?,UCLA-MS Cybersecurity,4,"Thorough researcher, methodical",,cancelled,1/3,4/28/2025,
+U0004,req_u0004@demo.edu,U0050,Would you be willing to write a recommendation for my NSF Fellowship application?,NSF Fellowship,2,"Adequate skills, improving steadily",,completed,0/3,1/02/2026,1/05/2026
+U0048,req_u0048@demo.edu,U0050,Could you recommend me for Leadership Development Program? Your perspective would carry weight.,Leadership Development Program,4,"Hardworking, strong performer",,pending,0/3,9/30/2025,
+U0023,req_u0023@demo.edu,U0007,Seeking a recommendation for Vanderbilt. Thank you in advance.,Vanderbilt,4,"Quick learner, eager to grow",,cancelled,2/3,12/23/2024,
+U0034,req_u0034@demo.edu,U0039,I need a recommendation for Research Assistantship. Could you speak to my skills?,Research Assistantship,1,Struggles with deadlines,,completed,1/3,9/06/2025,9/09/2025
+U0006,req_u0006@demo.edu,U0047,I'm applying to Stanford-MS Machine Learning and would really appreciate your recommendation.,Stanford-MS Machine Learning,2,Struggles with deadlines,,pending,0/3,8/12/2024,
+U0034,req_u0034@demo.edu,U0042,I need a recommendation for Harvard. Could you speak to my skills?,Harvard,2,"Decent effort, somewhat inconsistent",,completed,0/3,3/13/2025,3/22/2025
+U0005,req_u0005@demo.edu,U0007,I'm pursuing an opportunity at Caltech. Your endorsement would help.,Caltech-PhD Physics,3,Capable but unremarkable so far,,pending,0/3,9/05/2024,
+U0043,req_u0043@demo.edu,U0011,I'm pursuing an opportunity at University of Chicago. Your endorsement would help.,University of Chicago,5,"Excellent communicator, team player","I am pleased to recommend this individual for University of Chicago. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed exceptional teamwork. I am confident they would be a valuable addition to University of Chicago.",completed,2/3,9/09/2024,9/11/2024
+U0004,req_u0004@demo.edu,U0050,Could you recommend me for Northwestern-Doctorate? Your perspective would carry weight.,Northwestern-Doctorate,3,"Shows potential, needs guidance","I am pleased to recommend this individual for Northwestern-Doctorate. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Northwestern.",completed,0/3,8/17/2024,8/26/2024
+U0016,req_u0016@demo.edu,U0042,I'm pursuing an opportunity at Rhodes Scholarship. Your endorsement would help.,Rhodes Scholarship,3,Competent but still developing,"It is my pleasure to write this recommendation for Rhodes Scholarship. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to Rhodes Scholarship.",completed,1/3,10/06/2025,10/11/2025
+U0039,req_u0039@demo.edu,U0027,I'm pursuing an opportunity at NSF Fellowship. Your endorsement would help.,NSF Fellowship,3,"Innovative thinker, proactive",,cancelled,1/3,3/20/2025,
+U0011,req_u0011@demo.edu,U0019,I need a recommendation for Leadership Development Program. Could you speak to my skills?,Leadership Development Program,4,Dedicated and disciplined student,,pending,1/3,11/06/2024,
+U0021,req_u0021@demo.edu,U0005,Could you recommend me for Yale-MS Data Science? Your perspective would carry weight.,Yale-MS Data Science,5,"Great with data, very precise",,pending,0/3,7/22/2024,
+U0039,req_u0039@demo.edu,U0042,Requesting a recommendation for Dartmouth. Happy to provide details.,Dartmouth-Doctorate,3,"Adequate skills, improving steadily","I am pleased to recommend this individual for Dartmouth-Doctorate. They have consistently demonstrated exceptional problem-solving abilities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Dartmouth.",completed,0/3,1/27/2025,2/04/2025
+U0048,req_u0048@demo.edu,U0024,I need a recommendation for Nvidia. Could you speak to my skills?,Nvidia,4,"Solid technical skills, dependable","I am writing to support this candidate's application to Nvidia. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at Nvidia.",completed,0/3,12/27/2024,1/03/2025
+U0004,req_u0004@demo.edu,U0026,Requesting a recommendation for Snowflake. Happy to provide details.,Snowflake,5,"Exceptional researcher, self-driven","I am pleased to recommend this individual for Snowflake. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to Snowflake.",completed,0/3,6/10/2024,6/19/2024
+U0048,req_u0048@demo.edu,U0003,Applying to Penn State. Your support would mean a lot to me.,Penn State,5,"Outstanding work ethic, consistent",,cancelled,0/3,3/19/2025,
+U0004,req_u0004@demo.edu,U0047,I'm applying to NSF Fellowship and would really appreciate your recommendation.,NSF Fellowship,2,"Decent effort, somewhat inconsistent",,pending,2/3,11/24/2025,
+U0048,req_u0048@demo.edu,U0026,Applying to UT Austin. Your support would mean a lot to me.,UT Austin,3,"Decent effort, somewhat inconsistent","I strongly recommend this individual for UT Austin. Having worked closely with them, I can attest to their outstanding leadership qualities and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to UT Austin.",completed,0/3,9/18/2024,9/28/2024
+U0008,req_u0008@demo.edu,U0017,Seeking a recommendation for University of Toronto-MS Information Systems. Thank you in advance.,University of Toronto-MS Information Systems,5,"Creative thinker, great collaborator",,cancelled,0/3,9/03/2024,
+U0013,req_u0013@demo.edu,U0050,I'm pursuing an opportunity at Georgia Tech. Your endorsement would help.,Georgia Tech,3,"Quick learner, eager to grow","I am pleased to recommend this individual for Georgia Tech. They have consistently demonstrated exceptional problem-solving abilities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Georgia Tech.",completed,2/3,8/27/2025,9/06/2025
+U0005,req_u0005@demo.edu,U0020,Applying to Fulbright Scholarship. Your support would mean a lot to me.,Fulbright Scholarship,4,"Strong problem solver, persistent","It is my pleasure to write this recommendation for Fulbright Scholarship. This candidate brings strong analytical skills to every challenge and consistently exceeds expectations.
+
+Their a passion for continuous learning sets them apart from peers. I wholeheartedly support their application to Fulbright Scholarship.",completed,0/3,1/18/2026,1/28/2026
+U0010,req_u0010@demo.edu,U0017,Could you recommend me for Harvard? Your perspective would carry weight.,Harvard,5,"Strong problem solver, persistent","It is my pleasure to write this recommendation for Harvard. This candidate brings outstanding leadership qualities to every challenge and consistently exceeds expectations.
+
+Their remarkable growth over a short period sets them apart from peers. I wholeheartedly support their application to Harvard.",completed,0/3,9/14/2024,9/21/2024
+U0049,req_u0049@demo.edu,U0050,I need a recommendation for NYU. Could you speak to my skills?,NYU,2,Competent but still developing,,completed,2/3,5/07/2025,5/15/2025
+U0019,req_u0019@demo.edu,U0031,Would appreciate your recommendation for my application to UT Austin-MS Data Science.,UT Austin-MS Data Science,5,"Thorough researcher, methodical",,cancelled,0/3,12/22/2024,
+U0006,req_u0006@demo.edu,U0049,Could you recommend me for Duke? Your perspective would carry weight.,Duke-MS Statistics,3,"Excellent communicator, team player","I strongly recommend this individual for Duke-MS Statistics. Having worked closely with them, I can attest to their strong analytical skills and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Duke.",completed,0/3,8/11/2024,8/17/2024
+U0019,req_u0019@demo.edu,U0048,Requesting a recommendation for NSF Fellowship. Happy to provide details.,NSF Fellowship,3,"Excellent communicator, team player","I strongly recommend this individual for NSF Fellowship. Having worked closely with them, I can attest to their excellent communication skills and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to NSF Fellowship.",completed,0/3,7/10/2024,7/13/2024
+U0027,req_u0027@demo.edu,U0012,I'm applying to Nvidia and would really appreciate your recommendation.,Nvidia,4,"Strong problem solver, persistent","I am pleased to recommend this individual for Nvidia. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to Nvidia.",completed,1/3,12/12/2024,12/18/2024
+U0050,req_u0050@demo.edu,U0011,Could you recommend me for Purdue? Your perspective would carry weight.,Purdue,5,Dedicated and disciplined student,,pending,0/3,4/04/2025,
+U0037,req_u0037@demo.edu,U0025,I need a recommendation for Tesla. Could you speak to my skills?,Tesla,3,"Excellent communicator, team player","I am writing to support this candidate's application to Tesla. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at Tesla.",completed,0/3,12/20/2025,12/24/2025
+U0021,req_u0021@demo.edu,U0025,I need a recommendation for Stripe. Could you speak to my skills?,Stripe,3,"Excellent communicator, team player","I strongly recommend this individual for Stripe. Having worked closely with them, I can attest to their consistent high performance and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to Stripe.",completed,0/3,4/08/2025,4/14/2025
+U0002,wimharrisryden1@gmail.com,U0006,Requesting a recommendation for University of Michigan-Doctorate. Happy to provide details.,University of Michigan-Doctorate,5,"Excellent communicator, team player",,pending,0/3,11/10/2025,
+U0050,req_u0050@demo.edu,U0027,I'm applying to Wayne State University and would really appreciate your recommendation.,Wayne State University,5,"Natural leader, inspires others","I am writing to support this candidate's application to Wayne State University. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Wayne State University.",completed,0/3,10/29/2024,10/31/2024
+U0036,req_u0036@demo.edu,U0039,I'm applying to Carnegie Mellon and would really appreciate your recommendation.,Carnegie Mellon,2,Needs improvement in communication,,completed,1/3,2/05/2025,2/09/2025
+U0006,req_u0006@demo.edu,U0050,I'm applying to Rhodes Scholarship and would really appreciate your recommendation.,Rhodes Scholarship,3,"Quick learner, eager to grow","It is my pleasure to write this recommendation for Rhodes Scholarship. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Rhodes Scholarship.",completed,2/3,11/13/2025,11/22/2025
+U0008,req_u0008@demo.edu,U0044,Would appreciate your recommendation for my application to University of Chicago.,University of Chicago,3,"Strong problem solver, persistent",,cancelled,1/3,4/21/2025,
+U0025,req_u0025@demo.edu,U0043,Would appreciate your recommendation for my application to Leadership Development Program.,Leadership Development Program,4,"Outstanding work ethic, consistent","I strongly recommend this individual for Leadership Development Program. Having worked closely with them, I can attest to their outstanding leadership qualities and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Leadership Development Program.",completed,1/3,8/31/2025,9/04/2025
+U0028,req_u0028@demo.edu,U0044,Would you be willing to write a recommendation for my Nvidia application?,Nvidia,4,Dedicated and disciplined student,"It is my pleasure to write this recommendation for Nvidia. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their a passion for continuous learning sets them apart from peers. I wholeheartedly support their application to Nvidia.",completed,0/3,3/09/2025,3/18/2025
+U0032,req_u0032@demo.edu,U0037,Applying to Columbia and hoping you could provide a strong recommendation.,Columbia-MS Machine Learning,5,"Organized, meets every deadline","I am writing to support this candidate's application to Columbia-MS Machine Learning. They possess a sharp intellectual curiosity that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at Columbia.",completed,0/3,1/06/2025,1/09/2025
+U0044,req_u0044@demo.edu,U0031,Applying to Emory University and hoping you could provide a strong recommendation.,Emory University-MS Computer Science,5,Dedicated and disciplined student,,cancelled,1/3,6/25/2025,
+U0018,req_u0018@demo.edu,U0025,Would appreciate your recommendation for my application to Teaching Fellowship.,Teaching Fellowship,4,"Natural leader, inspires others","I strongly recommend this individual for Teaching Fellowship. Having worked closely with them, I can attest to their a sharp intellectual curiosity and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to Teaching Fellowship.",completed,2/3,12/12/2025,12/17/2025
+U0015,req_u0015@demo.edu,U0026,Would appreciate your recommendation for my application to Purdue.,Purdue,4,"Sharp analytical mind, fast learner",,pending,2/3,11/17/2024,
+U0042,req_u0042@demo.edu,U0050,Would you be willing to write a recommendation for my Leadership Development Program application?,Leadership Development Program,4,"Strong problem solver, persistent","It is my pleasure to write this recommendation for Leadership Development Program. This candidate brings consistent high performance to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to Leadership Development Program.",completed,1/3,1/28/2026,1/30/2026
+U0021,req_u0021@demo.edu,U0042,Would you be willing to write a recommendation for my Cornell application?,Cornell-MS Finance,4,"Innovative thinker, proactive","I am pleased to recommend this individual for Cornell-MS Finance. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to Cornell.",completed,1/3,3/12/2025,3/20/2025
+U0015,req_u0015@demo.edu,U0033,I need a recommendation for Princeton. Could you speak to my skills?,Princeton,5,"Strong coder, delivers on time",,pending,0/3,2/09/2025,
+U0004,req_u0004@demo.edu,U0009,Would appreciate your recommendation for my application to Adobe.,Adobe,3,"Innovative thinker, proactive","I strongly recommend this individual for Adobe. Having worked closely with them, I can attest to their excellent communication skills and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Adobe.",completed,2/3,9/26/2024,10/01/2024
+U0015,req_u0015@demo.edu,U0045,Would you be willing to write a recommendation for my Apple application?,Apple,5,"Strong coder, delivers on time",,pending,0/3,4/15/2025,
+U0024,req_u0024@demo.edu,U0050,I need a recommendation for Startup Accelerator. Could you speak to my skills?,Startup Accelerator,3,"Shows potential, needs guidance",,pending,1/3,7/12/2025,
+U0008,req_u0008@demo.edu,U0003,Requesting a recommendation for Adobe. Happy to provide details.,Adobe,5,"Creative thinker, great collaborator","I strongly recommend this individual for Adobe. Having worked closely with them, I can attest to their a sharp intellectual curiosity and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to Adobe.",completed,0/3,2/05/2026,2/08/2026
+U0004,req_u0004@demo.edu,U0027,I'm pursuing an opportunity at Dartmouth. Your endorsement would help.,Dartmouth,4,"Thorough researcher, methodical","I am writing to support this candidate's application to Dartmouth. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Dartmouth.",completed,1/3,10/15/2025,10/18/2025
+U0021,req_u0021@demo.edu,U0015,I'm pursuing an opportunity at Oxford. Your endorsement would help.,Oxford,5,"Solid technical skills, dependable",,cancelled,1/3,9/20/2025,
+U0015,req_u0015@demo.edu,U0007,Requesting a recommendation for Wayne State University. Happy to provide details.,Wayne State University,3,"Strong problem solver, persistent","I am writing to support this candidate's application to Wayne State University. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at Wayne State University.",completed,1/3,2/05/2025,2/14/2025
+U0034,req_u0034@demo.edu,U0026,Applying to Tesla and hoping you could provide a strong recommendation.,Tesla,2,Competent but still developing,,completed,0/3,5/30/2025,6/05/2025
+U0013,req_u0013@demo.edu,U0042,Would you be willing to write a recommendation for my NSF Fellowship application?,NSF Fellowship,2,Struggles with deadlines,,pending,1/3,12/13/2024,
+U0031,req_u0031@demo.edu,U0050,Would appreciate your recommendation for my application to Palantir.,Palantir,3,"Thorough researcher, methodical",,pending,0/3,10/01/2025,
+U0038,req_u0038@demo.edu,U0026,Requesting a recommendation for Economics For Leaders Summer Program. Happy to provide details.,Economics For Leaders Summer Program,5,"Thorough researcher, methodical","I am writing to support this candidate's application to Economics For Leaders Summer Program. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Economics For Leaders Summer Program.",completed,1/3,2/05/2025,2/11/2025
+U0037,req_u0037@demo.edu,U0003,Seeking a recommendation for Leadership Development Program. Thank you in advance.,Leadership Development Program,5,"Solid technical skills, dependable","It is my pleasure to write this recommendation for Leadership Development Program. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Leadership Development Program.",completed,2/3,9/08/2025,9/14/2025
+U0026,req_u0026@demo.edu,U0007,I need a recommendation for Texas A&M. Could you speak to my skills?,Texas A&M,5,"Brilliant academic, curious mind",,cancelled,2/3,12/07/2024,
+U0015,req_u0015@demo.edu,U0025,Seeking a recommendation for Oracle. Thank you in advance.,Oracle,4,"Exceptional researcher, self-driven",,pending,1/3,2/02/2026,
+U0002,wimharrisryden1@gmail.com,U0019,Could you recommend me for NSF Fellowship? Your perspective would carry weight.,NSF Fellowship,5,"Sharp analytical mind, fast learner","I strongly recommend this individual for NSF Fellowship. Having worked closely with them, I can attest to their strong analytical skills and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to NSF Fellowship.",completed,0/3,4/06/2025,4/08/2025
+U0026,req_u0026@demo.edu,U0017,I'm applying to Meta and would really appreciate your recommendation.,Meta,4,Dedicated and disciplined student,,pending,1/3,9/14/2024,
+U0039,req_u0039@demo.edu,U0026,Would you be willing to write a recommendation for my Snowflake application?,Snowflake,2,Needs improvement in communication,,completed,0/3,2/14/2025,2/23/2025
+U0026,req_u0026@demo.edu,U0030,Would you be willing to write a recommendation for my Princeton-MS Data Science application?,Princeton-MS Data Science,4,"Organized, meets every deadline","I am writing to support this candidate's application to Princeton-MS Data Science. They possess outstanding leadership qualities that makes them stand out among their peers.
+
+Coupled with their remarkable growth over a short period, I believe they are well-prepared for this opportunity at Princeton.",completed,1/3,4/08/2025,4/11/2025
+U0016,req_u0016@demo.edu,U0020,I'm pursuing an opportunity at Snowflake. Your endorsement would help.,Snowflake,4,Dedicated and disciplined student,,cancelled,0/3,1/24/2026,
+U0034,req_u0034@demo.edu,U0029,I need a recommendation for Microsoft. Could you speak to my skills?,Microsoft,3,"Outstanding work ethic, consistent",,pending,2/3,9/10/2024,
+U0007,req_u0007@demo.edu,U0017,Requesting a recommendation for Columbia. Happy to provide details.,Columbia-Doctorate,4,"Innovative thinker, proactive",,pending,0/3,6/03/2024,
+U0042,req_u0042@demo.edu,U0007,Seeking a recommendation for Duke-PhD Economics. Thank you in advance.,Duke-PhD Economics,4,"Brilliant academic, curious mind",,pending,1/3,8/12/2024,
+U0023,req_u0023@demo.edu,U0038,I'm applying to Duke and would really appreciate your recommendation.,Duke,3,"Average performer, room to grow",,cancelled,0/3,8/13/2024,
+U0036,req_u0036@demo.edu,U0026,Would appreciate your recommendation for my application to Startup Accelerator.,Startup Accelerator,5,"Exceptional researcher, self-driven",,pending,1/3,3/23/2025,
+U0008,req_u0008@demo.edu,U0019,Could you recommend me for IBM? Your perspective would carry weight.,IBM,5,"Innovative thinker, proactive",,pending,0/3,10/26/2025,
+U0008,req_u0008@demo.edu,U0039,I'm applying to Harvard and would really appreciate your recommendation.,Harvard,5,Reliable and detail-oriented,,pending,1/3,2/12/2025,
+U0023,req_u0023@demo.edu,U0048,I'm applying to Stanford and would really appreciate your recommendation.,Stanford,4,"Hardworking, strong performer",,pending,0/3,1/12/2026,
+U0026,req_u0026@demo.edu,U0005,I'm pursuing an opportunity at Snowflake. Your endorsement would help.,Snowflake,5,"Innovative thinker, proactive",,cancelled,0/3,1/21/2026,
+U0050,req_u0050@demo.edu,U0019,Applying to Summer Internship. Your support would mean a lot to me.,Summer Internship,5,"Excellent communicator, team player","I am writing to support this candidate's application to Summer Internship. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their a passion for continuous learning, I believe they are well-prepared for this opportunity at Summer Internship.",completed,0/3,4/25/2025,4/28/2025
+U0004,req_u0004@demo.edu,U0010,Would appreciate your recommendation for my application to Stripe.,Stripe,4,Reliable and detail-oriented,,pending,1/3,7/08/2024,
+U0015,req_u0015@demo.edu,U0047,I'm applying to University of Washington and would really appreciate your recommendation.,University of Washington-JD Program,2,Struggles with deadlines,,cancelled,0/3,12/08/2025,
+U0048,req_u0048@demo.edu,U0009,Seeking a recommendation for Palantir. Thank you in advance.,Palantir,4,"Organized, meets every deadline",,pending,0/3,12/26/2024,
+U0017,req_u0017@demo.edu,U0047,Seeking a recommendation for Cambridge-PhD Physics. Thank you in advance.,Cambridge-PhD Physics,1,"Decent effort, somewhat inconsistent",,completed,2/3,2/14/2026,2/19/2026
+U0041,req_u0041@demo.edu,U0010,Seeking a recommendation for Emory University-PhD Computer Science. Thank you in advance.,Emory University-PhD Computer Science,5,"Great with data, very precise","I strongly recommend this individual for Emory University-PhD Computer Science. Having worked closely with them, I can attest to their a sharp intellectual curiosity and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Emory University.",completed,0/3,11/05/2024,11/14/2024
+U0007,req_u0007@demo.edu,U0042,I need a recommendation for Palantir. Could you speak to my skills?,Palantir,4,"Great with data, very precise","It is my pleasure to write this recommendation for Palantir. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their a passion for continuous learning sets them apart from peers. I wholeheartedly support their application to Palantir.",completed,1/3,10/27/2024,11/04/2024
+U0033,req_u0033@demo.edu,U0045,Seeking a recommendation for Teaching Fellowship. Thank you in advance.,Teaching Fellowship,4,Dedicated and disciplined student,"I am writing to support this candidate's application to Teaching Fellowship. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Teaching Fellowship.",completed,1/3,3/01/2025,3/03/2025
+U0040,req_u0040@demo.edu,U0025,Applying to SpaceX and hoping you could provide a strong recommendation.,SpaceX,2,Struggles with deadlines,,completed,1/3,6/22/2025,7/01/2025
+U0032,req_u0032@demo.edu,U0026,I'm applying to Rhodes Scholarship and would really appreciate your recommendation.,Rhodes Scholarship,3,Capable but unremarkable so far,,pending,0/3,7/26/2025,
+U0010,req_u0010@demo.edu,U0045,I'm applying to Stripe and would really appreciate your recommendation.,Stripe,4,"Sharp analytical mind, fast learner","I strongly recommend this individual for Stripe. Having worked closely with them, I can attest to their exceptional problem-solving abilities and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Stripe.",completed,2/3,11/03/2024,11/12/2024
+U0026,req_u0026@demo.edu,U0025,I'm pursuing an opportunity at Economics For Leaders Summer Program. Your endorsement would help.,Economics For Leaders Summer Program,3,"Organized, meets every deadline","It is my pleasure to write this recommendation for Economics For Leaders Summer Program. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Economics For Leaders Summer Program.",completed,1/3,6/16/2024,6/20/2024
+U0032,req_u0032@demo.edu,U0020,Applying to NSF Fellowship and hoping you could provide a strong recommendation.,NSF Fellowship,4,"Organized, meets every deadline","I am writing to support this candidate's application to NSF Fellowship. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at NSF Fellowship.",completed,2/3,7/13/2025,7/16/2025
+U0039,req_u0039@demo.edu,U0031,Would you be willing to write a recommendation for my Palantir application?,Palantir,3,"Adequate skills, improving steadily",,cancelled,0/3,2/23/2026,
+U0050,req_u0050@demo.edu,U0039,I'm pursuing an opportunity at IBM. Your endorsement would help.,IBM,5,"Exceptional researcher, self-driven",,cancelled,2/3,9/01/2024,
+U0011,req_u0011@demo.edu,U0039,I'm applying to Economics For Leaders Summer Program and would really appreciate your recommendation.,Economics For Leaders Summer Program,3,Capable but unremarkable so far,"I am pleased to recommend this individual for Economics For Leaders Summer Program. They have consistently demonstrated impressive technical expertise and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to Economics For Leaders Summer Program.",completed,2/3,4/03/2025,4/05/2025
+U0023,req_u0023@demo.edu,U0039,Requesting a recommendation for UC Berkeley. Happy to provide details.,UC Berkeley-MD Program,3,"Organized, meets every deadline",,pending,0/3,11/22/2024,
+U0006,req_u0006@demo.edu,U0042,I'm applying to Wayne State University and would really appreciate your recommendation.,Wayne State University-MS Electrical Engineering,4,"Outstanding work ethic, consistent","I strongly recommend this individual for Wayne State University-MS Electrical Engineering. Having worked closely with them, I can attest to their remarkable dedication and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Wayne State University.",completed,2/3,2/16/2025,2/25/2025
+U0026,req_u0026@demo.edu,U0025,Seeking a recommendation for Penn State. Thank you in advance.,Penn State,4,"Brilliant academic, curious mind","I am writing to support this candidate's application to Penn State. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at Penn State.",completed,1/3,2/12/2025,2/21/2025
+U0036,req_u0036@demo.edu,U0034,I'm applying to Penn State and would really appreciate your recommendation.,Penn State-PhD Economics,4,"Innovative thinker, proactive","I strongly recommend this individual for Penn State-PhD Economics. Having worked closely with them, I can attest to their outstanding leadership qualities and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to Penn State.",completed,2/3,7/11/2025,7/17/2025
+U0028,req_u0028@demo.edu,U0038,Applying to Rhodes Scholarship. Your support would mean a lot to me.,Rhodes Scholarship,4,"Exceptional researcher, self-driven",,pending,1/3,2/12/2025,
+U0015,req_u0015@demo.edu,U0017,Applying to DS Mentoring Program. Your support would mean a lot to me.,DS Mentoring Program,4,Reliable and detail-oriented,"I strongly recommend this individual for DS Mentoring Program. Having worked closely with them, I can attest to their excellent communication skills and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to DS Mentoring Program.",completed,1/3,7/05/2024,7/12/2024
+U0047,req_u0047@demo.edu,U0011,Would appreciate your recommendation for my application to Carnegie Mellon-MS Operations Research.,Carnegie Mellon-MS Operations Research,4,Dedicated and disciplined student,"I strongly recommend this individual for Carnegie Mellon-MS Operations Research. Having worked closely with them, I can attest to their exceptional problem-solving abilities and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to Carnegie Mellon.",completed,0/3,11/16/2024,11/22/2024
+U0011,req_u0011@demo.edu,U0038,Could you recommend me for Fulbright Scholarship? Your perspective would carry weight.,Fulbright Scholarship,5,"Thorough researcher, methodical",,pending,0/3,7/12/2025,
+U0047,req_u0047@demo.edu,U0028,Applying to Rice University-PhD Computer Science and hoping you could provide a strong recommendation.,Rice University-PhD Computer Science,5,"Exceptional researcher, self-driven","It is my pleasure to write this recommendation for Rice University-PhD Computer Science. This candidate brings consistent high performance to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to Rice University.",completed,2/3,2/24/2025,3/04/2025
+U0039,req_u0039@demo.edu,U0024,Would appreciate your recommendation for my application to Tesla.,Tesla,2,Competent but still developing,,cancelled,0/3,8/04/2024,
+U0020,req_u0020@demo.edu,U0039,Would you be willing to write a recommendation for my Apple application?,Apple,4,"Exceptional researcher, self-driven","It is my pleasure to write this recommendation for Apple. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Apple.",completed,0/3,4/08/2025,4/17/2025
+U0007,req_u0007@demo.edu,U0014,I'm pursuing an opportunity at Databricks. Your endorsement would help.,Databricks,3,"Outstanding work ethic, consistent",,pending,2/3,11/06/2024,
+U0015,req_u0015@demo.edu,U0018,Applying to Brown and hoping you could provide a strong recommendation.,Brown,3,"Adequate skills, improving steadily",,cancelled,0/3,7/04/2024,
+U0037,req_u0037@demo.edu,U0015,Applying to Wayne State University and hoping you could provide a strong recommendation.,Wayne State University,3,Competent but still developing,"I am writing to support this candidate's application to Wayne State University. They possess impressive technical expertise that makes them stand out among their peers.
+
+Coupled with their exceptional teamwork, I believe they are well-prepared for this opportunity at Wayne State University.",completed,2/3,6/12/2025,6/22/2025
+U0001,req_u0001@demo.edu,U0019,I'm applying to Summer Internship and would really appreciate your recommendation.,Summer Internship,5,"Excellent communicator, team player","It is my pleasure to write this recommendation for Summer Internship. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their remarkable growth over a short period sets them apart from peers. I wholeheartedly support their application to Summer Internship.",completed,0/3,2/02/2026,2/04/2026
+U0046,req_u0046@demo.edu,U0025,Requesting a recommendation for Amazon. Happy to provide details.,Amazon,4,"Brilliant academic, curious mind",,pending,1/3,12/30/2024,
+U0036,req_u0036@demo.edu,U0025,Seeking a recommendation for Rhodes Scholarship. Thank you in advance.,Rhodes Scholarship,4,"Sharp analytical mind, fast learner","It is my pleasure to write this recommendation for Rhodes Scholarship. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their remarkable growth over a short period sets them apart from peers. I wholeheartedly support their application to Rhodes Scholarship.",completed,0/3,2/01/2026,2/03/2026
+U0011,req_u0011@demo.edu,U0030,Applying to Stanford. Your support would mean a lot to me.,Stanford-MS Operations Research,3,"Decent effort, somewhat inconsistent",,pending,0/3,1/24/2026,
+U0019,req_u0019@demo.edu,U0046,I need a recommendation for Emory University. Could you speak to my skills?,Emory University-MBA,4,"Creative thinker, great collaborator","I strongly recommend this individual for Emory University-MBA. Having worked closely with them, I can attest to their consistent high performance and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to Emory University.",completed,0/3,11/08/2025,11/11/2025
+U0002,wimharrisryden1@gmail.com,U0035,Would you be willing to write a recommendation for my DS Mentoring Program application?,DS Mentoring Program,3,"Thorough researcher, methodical",,cancelled,1/3,8/11/2025,
+U0048,req_u0048@demo.edu,U0011,Would you be willing to write a recommendation for my Snowflake application?,Snowflake,5,"Sharp analytical mind, fast learner","I strongly recommend this individual for Snowflake. Having worked closely with them, I can attest to their excellent communication skills and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to Snowflake.",completed,0/3,4/26/2025,4/30/2025
+U0007,req_u0007@demo.edu,U0017,Would you be willing to write a recommendation for my Leadership Development Program application?,Leadership Development Program,5,"Exceptional researcher, self-driven","It is my pleasure to write this recommendation for Leadership Development Program. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Leadership Development Program.",completed,1/3,2/10/2026,2/18/2026
+U0018,req_u0018@demo.edu,U0025,Would you be willing to write a recommendation for my Teaching Fellowship application?,Teaching Fellowship,4,"Excellent communicator, team player","I am writing to support this candidate's application to Teaching Fellowship. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at Teaching Fellowship.",completed,1/3,7/14/2025,7/22/2025
+U0015,req_u0015@demo.edu,U0025,I'm pursuing an opportunity at UC Berkeley. Your endorsement would help.,UC Berkeley,3,"Shows potential, needs guidance","I strongly recommend this individual for UC Berkeley. Having worked closely with them, I can attest to their remarkable dedication and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to UC Berkeley.",completed,0/3,8/27/2024,8/30/2024
+U0004,req_u0004@demo.edu,U0025,Seeking a recommendation for Purdue. Thank you in advance.,Purdue,3,"Strong problem solver, persistent","I strongly recommend this individual for Purdue. Having worked closely with them, I can attest to their excellent communication skills and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Purdue.",completed,2/3,8/08/2025,8/10/2025
+U0004,req_u0004@demo.edu,U0040,Applying to Salesforce and hoping you could provide a strong recommendation.,Salesforce,3,"Organized, meets every deadline","I strongly recommend this individual for Salesforce. Having worked closely with them, I can attest to their exceptional problem-solving abilities and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Salesforce.",completed,1/3,1/16/2025,1/19/2025
+U0022,req_u0022@demo.edu,U0026,Could you recommend me for Duke? Your perspective would carry weight.,Duke,3,Competent but still developing,,pending,1/3,2/19/2026,
+U0007,req_u0007@demo.edu,U0014,Applying to Oracle and hoping you could provide a strong recommendation.,Oracle,5,"Strong coder, delivers on time","It is my pleasure to write this recommendation for Oracle. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their the ability to tackle complex problems with rigor sets them apart from peers. I wholeheartedly support their application to Oracle.",completed,0/3,4/13/2025,4/20/2025
+U0004,req_u0004@demo.edu,U0039,Could you recommend me for Amazon? Your perspective would carry weight.,Amazon,3,"Adequate skills, improving steadily","I am writing to support this candidate's application to Amazon. They possess a sharp intellectual curiosity that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Amazon.",completed,2/3,7/02/2024,7/05/2024
+U0019,req_u0019@demo.edu,U0002,I'm applying to University of Illinois and would really appreciate your recommendation.,University of Illinois-MS Biomedical Engineering,3,"Average performer, room to grow",,pending,1/3,2/01/2026,
+U0041,req_u0041@demo.edu,U0044,Requesting a recommendation for Yale. Happy to provide details.,Yale,5,"Outstanding work ethic, consistent","I am writing to support this candidate's application to Yale. They possess impressive technical expertise that makes them stand out among their peers.
+
+Coupled with their exceptional teamwork, I believe they are well-prepared for this opportunity at Yale.",completed,2/3,8/09/2025,8/18/2025
+U0010,req_u0010@demo.edu,U0035,Could you recommend me for Economics For Leaders Summer Program? Your perspective would carry weight.,Economics For Leaders Summer Program,4,Dedicated and disciplined student,"I am pleased to recommend this individual for Economics For Leaders Summer Program. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Economics For Leaders Summer Program.",completed,0/3,3/18/2025,3/27/2025
+U0031,req_u0031@demo.edu,U0020,Seeking a recommendation for DS Mentoring Program. Thank you in advance.,DS Mentoring Program,4,Dedicated and disciplined student,"I strongly recommend this individual for DS Mentoring Program. Having worked closely with them, I can attest to their exceptional problem-solving abilities and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to DS Mentoring Program.",completed,0/3,1/03/2025,1/07/2025
+U0011,req_u0011@demo.edu,U0007,Could you recommend me for Databricks? Your perspective would carry weight.,Databricks,4,"Organized, meets every deadline","I strongly recommend this individual for Databricks. Having worked closely with them, I can attest to their exceptional problem-solving abilities and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to Databricks.",completed,1/3,11/28/2025,12/03/2025
+U0048,req_u0048@demo.edu,U0049,Requesting a recommendation for DS Mentoring Program. Happy to provide details.,DS Mentoring Program,4,"Strong problem solver, persistent","I am writing to support this candidate's application to DS Mentoring Program. They possess a sharp intellectual curiosity that makes them stand out among their peers.
+
+Coupled with their a passion for continuous learning, I believe they are well-prepared for this opportunity at DS Mentoring Program.",completed,1/3,8/19/2024,8/26/2024
+U0002,wimharrisryden1@gmail.com,U0007,Would you be willing to write a recommendation for my Stanford application?,Stanford,5,"Strong problem solver, persistent","I am pleased to recommend this individual for Stanford. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Stanford.",completed,1/3,9/15/2025,9/22/2025
+U0003,req_u0003@demo.edu,U0013,Applying to Nvidia and hoping you could provide a strong recommendation.,Nvidia,3,"Great with data, very precise","It is my pleasure to write this recommendation for Nvidia. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their the ability to tackle complex problems with rigor sets them apart from peers. I wholeheartedly support their application to Nvidia.",completed,0/3,5/14/2025,5/19/2025
+U0045,req_u0045@demo.edu,U0032,I need a recommendation for Nvidia. Could you speak to my skills?,Nvidia,4,"Exceptional researcher, self-driven","It is my pleasure to write this recommendation for Nvidia. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to Nvidia.",completed,0/3,5/26/2025,5/30/2025
+U0011,req_u0011@demo.edu,U0024,Would appreciate your recommendation for my application to UC Berkeley.,UC Berkeley,4,"Outstanding work ethic, consistent",,pending,0/3,3/06/2026,
+U0041,req_u0041@demo.edu,U0021,Applying to Startup Accelerator and hoping you could provide a strong recommendation.,Startup Accelerator,4,"Sharp analytical mind, fast learner","I am writing to support this candidate's application to Startup Accelerator. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Startup Accelerator.",completed,1/3,3/13/2026,3/20/2026
+U0014,req_u0014@demo.edu,U0049,Would you be willing to write a recommendation for my ETH Zurich application?,ETH Zurich,5,Dedicated and disciplined student,,pending,0/3,11/02/2025,
+U0007,req_u0007@demo.edu,U0044,Requesting a recommendation for Microsoft. Happy to provide details.,Microsoft,3,"Strong problem solver, persistent","I am writing to support this candidate's application to Microsoft. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at Microsoft.",completed,0/3,8/18/2024,8/21/2024
+U0022,req_u0022@demo.edu,U0026,Requesting a recommendation for Microsoft. Happy to provide details.,Microsoft,2,"Adequate skills, improving steadily",,completed,1/3,12/10/2024,12/17/2024
+U0026,req_u0026@demo.edu,U0033,Applying to Microsoft. Your support would mean a lot to me.,Microsoft,4,"Creative thinker, great collaborator","It is my pleasure to write this recommendation for Microsoft. This candidate brings consistent high performance to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Microsoft.",completed,0/3,8/26/2024,9/05/2024
+U0006,req_u0006@demo.edu,U0042,Applying to Netflix and hoping you could provide a strong recommendation.,Netflix,3,"Outstanding work ethic, consistent","I am pleased to recommend this individual for Netflix. They have consistently demonstrated excellent communication skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Netflix.",completed,0/3,7/02/2025,7/10/2025
+U0006,req_u0006@demo.edu,U0045,I'm pursuing an opportunity at Cornell. Your endorsement would help.,Cornell-MS Electrical Engineering,3,"Average performer, room to grow","I am pleased to recommend this individual for Cornell-MS Electrical Engineering. They have consistently demonstrated impressive technical expertise and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to Cornell.",completed,1/3,10/23/2024,10/30/2024
+U0025,req_u0025@demo.edu,U0042,Would you be willing to write a recommendation for my Purdue application?,Purdue,2,"Average performer, room to grow",,pending,2/3,11/22/2025,
+U0012,req_u0012@demo.edu,U0027,Would appreciate your recommendation for my application to Google.,Google,5,"Brilliant academic, curious mind","It is my pleasure to write this recommendation for Google. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to Google.",completed,0/3,1/06/2025,1/13/2025
+U0001,req_u0001@demo.edu,U0010,Applying to UT Austin-MS Cybersecurity. Your support would mean a lot to me.,UT Austin-MS Cybersecurity,4,"Hardworking, strong performer","It is my pleasure to write this recommendation for UT Austin-MS Cybersecurity. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to UT Austin.",completed,0/3,2/23/2026,2/27/2026
+U0011,req_u0011@demo.edu,U0039,Would appreciate your recommendation for my application to Emory University-MS Machine Learning.,Emory University-MS Machine Learning,3,"Adequate skills, improving steadily",,cancelled,1/3,3/19/2025,
+U0031,req_u0031@demo.edu,U0035,Applying to IBM and hoping you could provide a strong recommendation.,IBM,2,Capable but unremarkable so far,,cancelled,1/3,12/16/2024,
+U0020,req_u0020@demo.edu,U0022,Could you recommend me for Summer Internship? Your perspective would carry weight.,Summer Internship,4,"Strong problem solver, persistent",,pending,1/3,10/28/2025,
+U0007,req_u0007@demo.edu,U0040,I'm applying to Rhodes Scholarship and would really appreciate your recommendation.,Rhodes Scholarship,4,"Innovative thinker, proactive",,pending,0/3,2/12/2025,
+U0015,req_u0015@demo.edu,U0028,Would you be willing to write a recommendation for my Leadership Development Program application?,Leadership Development Program,5,Dedicated and disciplined student,,cancelled,2/3,11/11/2025,
+U0018,req_u0018@demo.edu,U0050,Applying to UCLA-MS Cybersecurity and hoping you could provide a strong recommendation.,UCLA-MS Cybersecurity,4,"Strong coder, delivers on time","I am writing to support this candidate's application to UCLA-MS Cybersecurity. They possess strong analytical skills that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at UCLA.",completed,1/3,9/02/2024,9/07/2024
+U0003,req_u0003@demo.edu,U0017,I'm applying to Adobe and would really appreciate your recommendation.,Adobe,3,Capable but unremarkable so far,"I am pleased to recommend this individual for Adobe. They have consistently demonstrated excellent communication skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed remarkable growth over a short period. I am confident they would be a valuable addition to Adobe.",completed,0/3,6/19/2025,6/24/2025
+U0041,req_u0041@demo.edu,U0042,I'm applying to Harvard and would really appreciate your recommendation.,Harvard-PhD Physics,3,"Shows potential, needs guidance",,pending,0/3,9/24/2025,
+U0004,req_u0004@demo.edu,U0038,I'm pursuing an opportunity at University of Michigan. Your endorsement would help.,University of Michigan,3,"Shows potential, needs guidance","I strongly recommend this individual for University of Michigan. Having worked closely with them, I can attest to their outstanding leadership qualities and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to University of Michigan.",completed,2/3,2/14/2026,2/24/2026
+U0035,req_u0035@demo.edu,U0031,Could you recommend me for Wayne State University? Your perspective would carry weight.,Wayne State University-MS Finance,4,"Natural leader, inspires others","It is my pleasure to write this recommendation for Wayne State University-MS Finance. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Wayne State University.",completed,1/3,2/02/2026,2/12/2026
+U0039,req_u0039@demo.edu,U0037,Would you be willing to write a recommendation for my Penn State-MD Program application?,Penn State-MD Program,4,"Great with data, very precise","I am pleased to recommend this individual for Penn State-MD Program. They have consistently demonstrated a sharp intellectual curiosity and a commitment to excellence in every endeavor.
+
+During our time working together, they showed remarkable growth over a short period. I am confident they would be a valuable addition to Penn State.",completed,2/3,8/27/2024,9/06/2024
+U0005,req_u0005@demo.edu,U0019,Applying to Stripe and hoping you could provide a strong recommendation.,Stripe,3,"Great with data, very precise",,cancelled,0/3,6/17/2024,
+U0007,req_u0007@demo.edu,U0026,Applying to Wayne State University. Your support would mean a lot to me.,Wayne State University,4,"Creative thinker, great collaborator",,pending,1/3,5/07/2025,
+U0036,req_u0036@demo.edu,U0042,Applying to Purdue. Your support would mean a lot to me.,Purdue,3,"Great with data, very precise","It is my pleasure to write this recommendation for Purdue. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Purdue.",completed,2/3,9/19/2025,9/28/2025
+U0044,req_u0044@demo.edu,U0034,I'm applying to Summer Internship and would really appreciate your recommendation.,Summer Internship,5,"Excellent communicator, team player","I strongly recommend this individual for Summer Internship. Having worked closely with them, I can attest to their a sharp intellectual curiosity and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Summer Internship.",completed,0/3,7/15/2024,7/20/2024
+U0050,req_u0050@demo.edu,U0049,Applying to Oracle and hoping you could provide a strong recommendation.,Oracle,5,"Creative thinker, great collaborator","I strongly recommend this individual for Oracle. Having worked closely with them, I can attest to their impressive technical expertise and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Oracle.",completed,2/3,12/13/2024,12/19/2024
+U0036,req_u0036@demo.edu,U0015,I'm pursuing an opportunity at Teaching Fellowship. Your endorsement would help.,Teaching Fellowship,4,"Excellent communicator, team player",,cancelled,2/3,8/25/2025,
+U0020,req_u0020@demo.edu,U0041,Seeking a recommendation for Summer Internship. Thank you in advance.,Summer Internship,4,Reliable and detail-oriented,,pending,0/3,11/14/2025,
+U0034,req_u0034@demo.edu,U0023,Applying to Amazon and hoping you could provide a strong recommendation.,Amazon,2,Needs improvement in communication,,completed,0/3,12/11/2025,12/17/2025
+U0006,req_u0006@demo.edu,U0007,Applying to Cambridge and hoping you could provide a strong recommendation.,Cambridge-MD Program,3,"Strong problem solver, persistent","I am writing to support this candidate's application to Cambridge-MD Program. They possess impressive technical expertise that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at Cambridge.",completed,1/3,5/26/2025,6/04/2025
+U0029,req_u0029@demo.edu,U0042,Could you recommend me for DS Mentoring Program? Your perspective would carry weight.,DS Mentoring Program,4,"Hardworking, strong performer","I am pleased to recommend this individual for DS Mentoring Program. They have consistently demonstrated remarkable dedication and a commitment to excellence in every endeavor.
+
+During our time working together, they showed remarkable growth over a short period. I am confident they would be a valuable addition to DS Mentoring Program.",completed,2/3,7/21/2025,7/28/2025
+U0039,req_u0039@demo.edu,U0019,Applying to Snowflake and hoping you could provide a strong recommendation.,Snowflake,4,"Quick learner, eager to grow","I am pleased to recommend this individual for Snowflake. They have consistently demonstrated remarkable dedication and a commitment to excellence in every endeavor.
+
+During our time working together, they showed creative thinking and adaptability. I am confident they would be a valuable addition to Snowflake.",completed,0/3,1/28/2025,2/04/2025
+U0042,req_u0042@demo.edu,U0025,Seeking a recommendation for University of Illinois. Thank you in advance.,University of Illinois-MBA,4,"Natural leader, inspires others",,pending,1/3,6/11/2025,
+U0042,req_u0042@demo.edu,U0002,I'm pursuing an opportunity at DS Mentoring Program. Your endorsement would help.,DS Mentoring Program,4,"Organized, meets every deadline",,pending,1/3,11/13/2025,
+U0004,req_u0004@demo.edu,U0001,I need a recommendation for University of Toronto. Could you speak to my skills?,University of Toronto,4,"Exceptional researcher, self-driven","It is my pleasure to write this recommendation for University of Toronto. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to University of Toronto.",completed,1/3,3/20/2025,3/29/2025
+U0039,req_u0039@demo.edu,U0025,Would you be willing to write a recommendation for my Northwestern application?,Northwestern,3,"Quick learner, eager to grow",,pending,0/3,5/22/2025,
+U0050,req_u0050@demo.edu,U0039,Applying to IBM and hoping you could provide a strong recommendation.,IBM,3,"Quick learner, eager to grow",,cancelled,2/3,11/26/2024,
+U0015,req_u0015@demo.edu,U0026,Could you recommend me for Carnegie Mellon? Your perspective would carry weight.,Carnegie Mellon,3,"Strong problem solver, persistent","I strongly recommend this individual for Carnegie Mellon. Having worked closely with them, I can attest to their consistent high performance and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Carnegie Mellon.",completed,1/3,6/27/2024,7/04/2024
+U0011,req_u0011@demo.edu,U0008,Seeking a recommendation for Fulbright Scholarship. Thank you in advance.,Fulbright Scholarship,3,"Excellent communicator, team player",,pending,0/3,8/07/2024,
+U0014,req_u0014@demo.edu,U0017,Applying to Summer Internship. Your support would mean a lot to me.,Summer Internship,4,"Excellent communicator, team player","I am pleased to recommend this individual for Summer Internship. They have consistently demonstrated consistent high performance and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Summer Internship.",completed,1/3,1/10/2026,1/13/2026
+U0018,req_u0018@demo.edu,U0009,Applying to SpaceX. Your support would mean a lot to me.,SpaceX,4,"Strong problem solver, persistent","I am pleased to recommend this individual for SpaceX. They have consistently demonstrated exceptional problem-solving abilities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to SpaceX.",completed,1/3,1/23/2026,1/27/2026
+U0048,req_u0048@demo.edu,U0041,Could you recommend me for UCLA? Your perspective would carry weight.,UCLA-MS Machine Learning,5,"Solid technical skills, dependable","It is my pleasure to write this recommendation for UCLA-MS Machine Learning. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their the ability to tackle complex problems with rigor sets them apart from peers. I wholeheartedly support their application to UCLA.",completed,1/3,3/18/2025,3/21/2025
+U0044,req_u0044@demo.edu,U0050,Applying to Nvidia. Your support would mean a lot to me.,Nvidia,4,"Hardworking, strong performer",,pending,1/3,1/16/2026,
+U0004,req_u0004@demo.edu,U0025,I'm applying to Tesla and would really appreciate your recommendation.,Tesla,4,Reliable and detail-oriented,,pending,1/3,7/13/2024,
+U0034,req_u0034@demo.edu,U0031,I'm applying to University of Toronto and would really appreciate your recommendation.,University of Toronto,2,"Adequate skills, improving steadily",,pending,1/3,2/23/2026,
+U0017,req_u0017@demo.edu,U0003,I'm pursuing an opportunity at Leadership Development Program. Your endorsement would help.,Leadership Development Program,3,"Decent effort, somewhat inconsistent","I am writing to support this candidate's application to Leadership Development Program. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at Leadership Development Program.",completed,0/3,10/08/2025,10/13/2025
+U0039,req_u0039@demo.edu,U0021,Applying to Northwestern-MS Finance and hoping you could provide a strong recommendation.,Northwestern-MS Finance,1,"Shows potential, needs guidance",,completed,1/3,10/26/2024,11/02/2024
+U0007,req_u0007@demo.edu,U0042,Would you be willing to write a recommendation for my Fulbright Scholarship application?,Fulbright Scholarship,5,"Excellent communicator, team player",,pending,1/3,12/28/2025,
+U0009,req_u0009@demo.edu,U0026,I'm pursuing an opportunity at Texas A&M-MS Machine Learning. Your endorsement would help.,Texas A&M-MS Machine Learning,3,"Adequate skills, improving steadily","It is my pleasure to write this recommendation for Texas A&M-MS Machine Learning. This candidate brings excellent communication skills to every challenge and consistently exceeds expectations.
+
+Their the ability to tackle complex problems with rigor sets them apart from peers. I wholeheartedly support their application to Texas A&M.",completed,0/3,3/25/2025,4/02/2025
+U0043,req_u0043@demo.edu,U0044,Would appreciate your recommendation for my application to Salesforce.,Salesforce,4,"Innovative thinker, proactive",,pending,1/3,11/10/2025,
+U0006,req_u0006@demo.edu,U0045,I need a recommendation for Summer Internship. Could you speak to my skills?,Summer Internship,2,Struggles with deadlines,,completed,1/3,10/31/2025,11/09/2025
+U0042,req_u0042@demo.edu,U0003,Seeking a recommendation for Microsoft. Thank you in advance.,Microsoft,3,"Quick learner, eager to grow","I am pleased to recommend this individual for Microsoft. They have consistently demonstrated exceptional problem-solving abilities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Microsoft.",completed,1/3,2/02/2026,2/11/2026
+U0027,req_u0027@demo.edu,U0007,I'm pursuing an opportunity at University of Toronto. Your endorsement would help.,University of Toronto,4,"Creative thinker, great collaborator",,pending,0/3,7/17/2024,
+U0036,req_u0036@demo.edu,U0026,Could you recommend me for Salesforce? Your perspective would carry weight.,Salesforce,5,"Outstanding work ethic, consistent","I strongly recommend this individual for Salesforce. Having worked closely with them, I can attest to their exceptional problem-solving abilities and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Salesforce.",completed,0/3,8/15/2024,8/23/2024
+U0009,req_u0009@demo.edu,U0037,Applying to Teaching Fellowship. Your support would mean a lot to me.,Teaching Fellowship,5,"Brilliant academic, curious mind","I am writing to support this candidate's application to Teaching Fellowship. They possess strong analytical skills that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at Teaching Fellowship.",completed,0/3,12/24/2025,12/31/2025
+U0050,req_u0050@demo.edu,U0005,Applying to Purdue. Your support would mean a lot to me.,Purdue,5,"Excellent communicator, team player","I strongly recommend this individual for Purdue. Having worked closely with them, I can attest to their remarkable dedication and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to Purdue.",completed,0/3,2/11/2026,2/21/2026
+U0041,req_u0041@demo.edu,U0021,Could you recommend me for NSF Fellowship? Your perspective would carry weight.,NSF Fellowship,3,"Thorough researcher, methodical",,pending,1/3,11/04/2025,
+U0026,req_u0026@demo.edu,U0044,Would you be willing to write a recommendation for my IBM application?,IBM,4,"Strong problem solver, persistent","I strongly recommend this individual for IBM. Having worked closely with them, I can attest to their strong analytical skills and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to IBM.",completed,0/3,6/13/2025,6/20/2025
+U0042,req_u0042@demo.edu,U0041,Applying to Adobe. Your support would mean a lot to me.,Adobe,5,"Great with data, very precise",,pending,1/3,10/05/2025,
+U0007,req_u0007@demo.edu,U0019,Requesting a recommendation for Stripe. Happy to provide details.,Stripe,5,"Exceptional researcher, self-driven","It is my pleasure to write this recommendation for Stripe. This candidate brings strong analytical skills to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Stripe.",completed,2/3,2/04/2025,2/06/2025
+U0035,req_u0035@demo.edu,U0036,Could you recommend me for UC Berkeley-MS Statistics? Your perspective would carry weight.,UC Berkeley-MS Statistics,5,"Brilliant academic, curious mind","I strongly recommend this individual for UC Berkeley-MS Statistics. Having worked closely with them, I can attest to their consistent high performance and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to UC Berkeley.",completed,1/3,9/26/2025,9/28/2025
+U0042,req_u0042@demo.edu,U0044,I need a recommendation for NYU. Could you speak to my skills?,NYU-MS Biomedical Engineering,5,"Solid technical skills, dependable","I strongly recommend this individual for NYU-MS Biomedical Engineering. Having worked closely with them, I can attest to their outstanding leadership qualities and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to NYU.",completed,2/3,2/26/2025,3/07/2025
+U0042,req_u0042@demo.edu,U0001,Would appreciate your recommendation for my application to Rhodes Scholarship.,Rhodes Scholarship,4,"Thorough researcher, methodical",,pending,1/3,4/21/2025,
+U0040,req_u0040@demo.edu,U0042,I'm pursuing an opportunity at Oracle. Your endorsement would help.,Oracle,4,"Thorough researcher, methodical","It is my pleasure to write this recommendation for Oracle. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to Oracle.",completed,1/3,12/09/2025,12/17/2025
+U0011,req_u0011@demo.edu,U0015,Could you recommend me for Columbia? Your perspective would carry weight.,Columbia-MS Finance,2,Competent but still developing,,pending,2/3,10/04/2025,
+U0033,req_u0033@demo.edu,U0017,I need a recommendation for NSF Fellowship. Could you speak to my skills?,NSF Fellowship,4,"Creative thinker, great collaborator","It is my pleasure to write this recommendation for NSF Fellowship. This candidate brings outstanding leadership qualities to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to NSF Fellowship.",completed,1/3,1/22/2026,1/27/2026
+U0001,req_u0001@demo.edu,U0042,Applying to Purdue. Your support would mean a lot to me.,Purdue,4,"Strong problem solver, persistent","I am writing to support this candidate's application to Purdue. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at Purdue.",completed,0/3,6/06/2024,6/16/2024
+U0021,req_u0021@demo.edu,U0042,I'm applying to Cambridge and would really appreciate your recommendation.,Cambridge-MS Data Science,4,"Hardworking, strong performer",,cancelled,0/3,1/09/2026,
+U0033,req_u0033@demo.edu,U0048,Seeking a recommendation for NYU. Thank you in advance.,NYU,4,"Creative thinker, great collaborator","I am pleased to recommend this individual for NYU. They have consistently demonstrated impressive technical expertise and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to NYU.",completed,1/3,10/21/2025,10/25/2025
+U0039,req_u0039@demo.edu,U0013,Would appreciate your recommendation for my application to Tesla.,Tesla,1,"Below expectations, lacks drive",,completed,2/3,12/09/2025,12/19/2025
+U0030,req_u0030@demo.edu,U0021,Would appreciate your recommendation for my application to Summer Internship.,Summer Internship,3,"Outstanding work ethic, consistent","I strongly recommend this individual for Summer Internship. Having worked closely with them, I can attest to their remarkable dedication and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Summer Internship.",completed,0/3,5/05/2025,5/09/2025
+U0004,req_u0004@demo.edu,U0043,Requesting a recommendation for IBM. Happy to provide details.,IBM,4,"Quick learner, eager to grow",,pending,0/3,11/27/2024,
+U0038,req_u0038@demo.edu,U0002,Applying to Leadership Development Program. Your support would mean a lot to me.,Leadership Development Program,4,"Innovative thinker, proactive","I strongly recommend this individual for Leadership Development Program. Having worked closely with them, I can attest to their outstanding leadership qualities and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Leadership Development Program.",completed,1/3,9/06/2024,9/10/2024
+U0041,req_u0041@demo.edu,U0024,I'm applying to Wayne State University-MS Information Systems and would really appreciate your recommendation.,Wayne State University-MS Information Systems,4,"Solid technical skills, dependable",,cancelled,0/3,1/18/2026,
+U0007,req_u0007@demo.edu,U0025,Applying to Adobe. Your support would mean a lot to me.,Adobe,4,"Quick learner, eager to grow","I strongly recommend this individual for Adobe. Having worked closely with them, I can attest to their exceptional problem-solving abilities and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to Adobe.",completed,0/3,9/20/2025,9/26/2025
+U0020,req_u0020@demo.edu,U0025,Would appreciate your recommendation for my application to NSF Fellowship.,NSF Fellowship,5,"Sharp analytical mind, fast learner","I am writing to support this candidate's application to NSF Fellowship. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at NSF Fellowship.",completed,0/3,1/11/2025,1/15/2025
+U0015,req_u0015@demo.edu,U0042,I need a recommendation for Palantir. Could you speak to my skills?,Palantir,4,Reliable and detail-oriented,,pending,2/3,1/10/2025,
+U0034,req_u0034@demo.edu,U0017,Would you be willing to write a recommendation for my Nvidia application?,Nvidia,4,"Creative thinker, great collaborator",,pending,0/3,12/30/2025,
+U0033,req_u0033@demo.edu,U0025,Applying to Leadership Development Program and hoping you could provide a strong recommendation.,Leadership Development Program,2,"Decent effort, somewhat inconsistent",,completed,1/3,11/01/2024,11/05/2024
+U0021,req_u0021@demo.edu,U0018,Would appreciate your recommendation for my application to University of Michigan.,University of Michigan,4,"Sharp analytical mind, fast learner","I am writing to support this candidate's application to University of Michigan. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at University of Michigan.",completed,1/3,8/31/2025,9/02/2025
+U0008,req_u0008@demo.edu,U0002,I'm applying to University of Chicago and would really appreciate your recommendation.,University of Chicago,3,"Innovative thinker, proactive","It is my pleasure to write this recommendation for University of Chicago. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to University of Chicago.",completed,0/3,7/11/2025,7/17/2025
+U0036,req_u0036@demo.edu,U0028,I'm pursuing an opportunity at Princeton. Your endorsement would help.,Princeton-MS Data Science,5,"Hardworking, strong performer",,cancelled,0/3,9/27/2025,
+U0007,req_u0007@demo.edu,U0044,I'm pursuing an opportunity at Teaching Fellowship. Your endorsement would help.,Teaching Fellowship,5,Reliable and detail-oriented,"It is my pleasure to write this recommendation for Teaching Fellowship. This candidate brings excellent communication skills to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to Teaching Fellowship.",completed,1/3,9/03/2025,9/11/2025
+U0007,req_u0007@demo.edu,U0025,Could you recommend me for Rice University? Your perspective would carry weight.,Rice University-MS Machine Learning,4,"Strong problem solver, persistent",,pending,0/3,4/02/2025,
+U0038,req_u0038@demo.edu,U0032,I need a recommendation for Adobe. Could you speak to my skills?,Adobe,4,"Exceptional researcher, self-driven","I am pleased to recommend this individual for Adobe. They have consistently demonstrated a sharp intellectual curiosity and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to Adobe.",completed,0/3,11/06/2024,11/12/2024
+U0004,req_u0004@demo.edu,U0046,Would appreciate your recommendation for my application to DS Mentoring Program.,DS Mentoring Program,3,"Strong problem solver, persistent","I am pleased to recommend this individual for DS Mentoring Program. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed creative thinking and adaptability. I am confident they would be a valuable addition to DS Mentoring Program.",completed,0/3,9/12/2024,9/14/2024
+U0001,req_u0001@demo.edu,U0031,Seeking a recommendation for Northwestern-MS Statistics. Thank you in advance.,Northwestern-MS Statistics,4,"Natural leader, inspires others",,pending,0/3,10/22/2024,
+U0011,req_u0011@demo.edu,U0027,Seeking a recommendation for Startup Accelerator. Thank you in advance.,Startup Accelerator,5,"Sharp analytical mind, fast learner","It is my pleasure to write this recommendation for Startup Accelerator. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their a passion for continuous learning sets them apart from peers. I wholeheartedly support their application to Startup Accelerator.",completed,1/3,4/25/2025,4/30/2025
+U0012,req_u0012@demo.edu,U0041,I'm pursuing an opportunity at NYU. Your endorsement would help.,NYU,5,"Great with data, very precise","I strongly recommend this individual for NYU. Having worked closely with them, I can attest to their a sharp intellectual curiosity and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to NYU.",completed,1/3,7/19/2024,7/26/2024
+U0050,req_u0050@demo.edu,U0011,I'm applying to Cornell-PhD Physics and would really appreciate your recommendation.,Cornell-PhD Physics,5,"Organized, meets every deadline","I am writing to support this candidate's application to Cornell-PhD Physics. They possess a sharp intellectual curiosity that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at Cornell.",completed,0/3,4/04/2025,4/08/2025
+U0004,req_u0004@demo.edu,U0025,Would appreciate your recommendation for my application to Stripe.,Stripe,3,"Organized, meets every deadline","I strongly recommend this individual for Stripe. Having worked closely with them, I can attest to their exceptional problem-solving abilities and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to Stripe.",completed,0/3,5/05/2025,5/08/2025
+U0034,req_u0034@demo.edu,U0044,Would you be willing to write a recommendation for my Salesforce application?,Salesforce,2,Struggles with deadlines,,completed,1/3,2/10/2026,2/12/2026
+U0005,req_u0005@demo.edu,U0029,Would appreciate your recommendation for my application to Startup Accelerator.,Startup Accelerator,2,Struggles with deadlines,,pending,1/3,1/09/2025,
+U0035,req_u0035@demo.edu,U0027,Would you be willing to write a recommendation for my Research Assistantship application?,Research Assistantship,5,"Innovative thinker, proactive","It is my pleasure to write this recommendation for Research Assistantship. This candidate brings outstanding leadership qualities to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Research Assistantship.",completed,0/3,1/03/2025,1/08/2025
+U0004,req_u0004@demo.edu,U0042,Could you recommend me for Leadership Development Program? Your perspective would carry weight.,Leadership Development Program,3,"Outstanding work ethic, consistent","I strongly recommend this individual for Leadership Development Program. Having worked closely with them, I can attest to their impressive technical expertise and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to Leadership Development Program.",completed,0/3,6/25/2025,7/04/2025
+U0018,req_u0018@demo.edu,U0010,I'm pursuing an opportunity at Brown. Your endorsement would help.,Brown-PhD Physics,5,"Creative thinker, great collaborator",,pending,0/3,12/26/2024,
+U0041,req_u0041@demo.edu,U0003,Could you recommend me for Adobe? Your perspective would carry weight.,Adobe,4,"Strong problem solver, persistent",,pending,0/3,2/23/2025,
+U0005,req_u0005@demo.edu,U0033,Applying to Carnegie Mellon-JD Program and hoping you could provide a strong recommendation.,Carnegie Mellon-JD Program,5,"Solid technical skills, dependable",,pending,0/3,10/25/2025,
+U0032,req_u0032@demo.edu,U0041,Would appreciate your recommendation for my application to Summer Internship.,Summer Internship,5,"Hardworking, strong performer",,cancelled,2/3,10/16/2025,
+U0022,req_u0022@demo.edu,U0035,Applying to SpaceX. Your support would mean a lot to me.,SpaceX,4,"Organized, meets every deadline","I am pleased to recommend this individual for SpaceX. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed remarkable growth over a short period. I am confident they would be a valuable addition to SpaceX.",completed,2/3,12/12/2025,12/21/2025
+U0022,req_u0022@demo.edu,U0003,I need a recommendation for DS Mentoring Program. Could you speak to my skills?,DS Mentoring Program,4,Reliable and detail-oriented,,pending,1/3,10/19/2024,
+U0036,req_u0036@demo.edu,U0007,Requesting a recommendation for Google. Happy to provide details.,Google,5,"Innovative thinker, proactive","I am writing to support this candidate's application to Google. They possess strong analytical skills that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at Google.",completed,1/3,6/18/2025,6/20/2025
+U0034,req_u0034@demo.edu,U0026,Seeking a recommendation for Databricks. Thank you in advance.,Databricks,3,Competent but still developing,"I am writing to support this candidate's application to Databricks. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at Databricks.",completed,1/3,3/09/2025,3/19/2025
+U0002,wimharrisryden1@gmail.com,U0035,Seeking a recommendation for Leadership Development Program. Thank you in advance.,Leadership Development Program,5,"Thorough researcher, methodical","I strongly recommend this individual for Leadership Development Program. Having worked closely with them, I can attest to their a sharp intellectual curiosity and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Leadership Development Program.",completed,0/3,2/25/2026,3/07/2026
+U0050,req_u0050@demo.edu,U0035,Would you be willing to write a recommendation for my Rice University-MS Machine Learning application?,Rice University-MS Machine Learning,4,"Creative thinker, great collaborator",,cancelled,0/3,4/04/2025,
+U0018,req_u0018@demo.edu,U0017,I'm pursuing an opportunity at Cornell. Your endorsement would help.,Cornell-PhD Physics,4,"Excellent communicator, team player","I am pleased to recommend this individual for Cornell-PhD Physics. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed exceptional teamwork. I am confident they would be a valuable addition to Cornell.",completed,0/3,11/23/2024,11/26/2024
+U0007,req_u0007@demo.edu,U0050,I'm applying to Caltech-MBA and would really appreciate your recommendation.,Caltech-MBA,3,"Average performer, room to grow",,pending,0/3,12/09/2025,
+U0037,req_u0037@demo.edu,U0025,I'm pursuing an opportunity at Research Assistantship. Your endorsement would help.,Research Assistantship,4,Reliable and detail-oriented,"I strongly recommend this individual for Research Assistantship. Having worked closely with them, I can attest to their remarkable dedication and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to Research Assistantship.",completed,0/3,1/23/2026,1/27/2026
+U0036,req_u0036@demo.edu,U0039,Could you recommend me for Cornell? Your perspective would carry weight.,Cornell,3,"Innovative thinker, proactive","I strongly recommend this individual for Cornell. Having worked closely with them, I can attest to their strong analytical skills and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Cornell.",completed,1/3,10/22/2024,10/25/2024
+U0004,req_u0004@demo.edu,U0044,Would appreciate your recommendation for my application to Princeton-JD Program.,Princeton-JD Program,4,"Innovative thinker, proactive",,cancelled,0/3,7/01/2024,
+U0018,req_u0018@demo.edu,U0031,Would you be willing to write a recommendation for my Cornell-JD Program application?,Cornell-JD Program,4,"Solid technical skills, dependable","It is my pleasure to write this recommendation for Cornell-JD Program. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Cornell.",completed,1/3,3/30/2025,4/04/2025
+U0039,req_u0039@demo.edu,U0035,Would you be willing to write a recommendation for my Fulbright Scholarship application?,Fulbright Scholarship,3,"Shows potential, needs guidance",,pending,0/3,6/05/2025,
+U0031,req_u0031@demo.edu,U0046,Could you recommend me for ETH Zurich? Your perspective would carry weight.,ETH Zurich-MS Information Systems,4,"Great with data, very precise","I am writing to support this candidate's application to ETH Zurich-MS Information Systems. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at ETH Zurich.",completed,0/3,12/09/2024,12/17/2024
+U0036,req_u0036@demo.edu,U0010,Would you be willing to write a recommendation for my Columbia application?,Columbia-MS Biomedical Engineering,4,"Organized, meets every deadline",,cancelled,0/3,3/26/2025,
+U0045,req_u0045@demo.edu,U0013,Applying to Rhodes Scholarship. Your support would mean a lot to me.,Rhodes Scholarship,5,"Sharp analytical mind, fast learner",,pending,0/3,6/25/2025,
+U0021,req_u0021@demo.edu,U0007,Would you be willing to write a recommendation for my Oxford application?,Oxford-MBA,5,"Thorough researcher, methodical","I strongly recommend this individual for Oxford-MBA. Having worked closely with them, I can attest to their outstanding leadership qualities and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to Oxford.",completed,0/3,8/06/2025,8/12/2025
+U0021,req_u0021@demo.edu,U0026,I'm pursuing an opportunity at Salesforce. Your endorsement would help.,Salesforce,3,Capable but unremarkable so far,"I am writing to support this candidate's application to Salesforce. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Salesforce.",completed,0/3,4/08/2025,4/10/2025
+U0018,req_u0018@demo.edu,U0050,Would appreciate your recommendation for my application to Georgia Tech.,Georgia Tech-MS Statistics,4,"Natural leader, inspires others","I strongly recommend this individual for Georgia Tech-MS Statistics. Having worked closely with them, I can attest to their a sharp intellectual curiosity and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to Georgia Tech.",completed,0/3,7/13/2025,7/20/2025
+U0042,req_u0042@demo.edu,U0001,Applying to Teaching Fellowship. Your support would mean a lot to me.,Teaching Fellowship,3,"Outstanding work ethic, consistent","I am pleased to recommend this individual for Teaching Fellowship. They have consistently demonstrated consistent high performance and a commitment to excellence in every endeavor.
+
+During our time working together, they showed creative thinking and adaptability. I am confident they would be a valuable addition to Teaching Fellowship.",completed,1/3,12/22/2024,1/01/2025
+U0039,req_u0039@demo.edu,U0010,Seeking a recommendation for Cambridge. Thank you in advance.,Cambridge,4,"Natural leader, inspires others","I strongly recommend this individual for Cambridge. Having worked closely with them, I can attest to their remarkable dedication and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to Cambridge.",completed,1/3,10/25/2025,10/29/2025
+U0011,req_u0011@demo.edu,U0017,I'm pursuing an opportunity at Cornell-PhD Physics. Your endorsement would help.,Cornell-PhD Physics,4,"Organized, meets every deadline",,pending,1/3,11/01/2025,
+U0021,req_u0021@demo.edu,U0035,Would you be willing to write a recommendation for my University of Illinois application?,University of Illinois,3,"Great with data, very precise",,pending,1/3,8/27/2024,
+U0021,req_u0021@demo.edu,U0017,Applying to Penn State-MS Data Science and hoping you could provide a strong recommendation.,Penn State-MS Data Science,5,"Strong problem solver, persistent",,pending,2/3,7/15/2025,
+U0017,req_u0017@demo.edu,U0031,I need a recommendation for UT Austin-MS Cybersecurity. Could you speak to my skills?,UT Austin-MS Cybersecurity,4,"Outstanding work ethic, consistent",,pending,1/3,1/16/2026,
+U0026,req_u0026@demo.edu,U0041,Applying to University of Chicago and hoping you could provide a strong recommendation.,University of Chicago,5,"Strong coder, delivers on time",,pending,1/3,11/02/2024,
+U0026,req_u0026@demo.edu,U0002,Applying to IBM and hoping you could provide a strong recommendation.,IBM,5,Dedicated and disciplined student,"I strongly recommend this individual for IBM. Having worked closely with them, I can attest to their consistent high performance and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to IBM.",completed,0/3,9/27/2024,10/01/2024
+U0006,req_u0006@demo.edu,U0017,I'm applying to Caltech and would really appreciate your recommendation.,Caltech-PhD Computer Science,3,"Great with data, very precise","I am pleased to recommend this individual for Caltech-PhD Computer Science. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed remarkable growth over a short period. I am confident they would be a valuable addition to Caltech.",completed,2/3,9/07/2025,9/14/2025
+U0021,req_u0021@demo.edu,U0048,Applying to UT Austin. Your support would mean a lot to me.,UT Austin,5,"Organized, meets every deadline","It is my pleasure to write this recommendation for UT Austin. This candidate brings excellent communication skills to every challenge and consistently exceeds expectations.
+
+Their the ability to tackle complex problems with rigor sets them apart from peers. I wholeheartedly support their application to UT Austin.",completed,2/3,2/05/2025,2/15/2025
+U0005,req_u0005@demo.edu,U0030,Requesting a recommendation for University of Chicago. Happy to provide details.,University of Chicago-JD Program,3,"Adequate skills, improving steadily",,pending,0/3,8/17/2025,
+U0048,req_u0048@demo.edu,U0001,Could you recommend me for Vanderbilt-MS Statistics? Your perspective would carry weight.,Vanderbilt-MS Statistics,4,"Hardworking, strong performer","I strongly recommend this individual for Vanderbilt-MS Statistics. Having worked closely with them, I can attest to their excellent communication skills and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Vanderbilt.",completed,2/3,8/04/2024,8/07/2024
+U0015,req_u0015@demo.edu,U0050,Applying to Oracle and hoping you could provide a strong recommendation.,Oracle,3,"Strong problem solver, persistent",,pending,1/3,11/23/2025,
+U0022,req_u0022@demo.edu,U0035,Seeking a recommendation for Rice University-MS Operations Research. Thank you in advance.,Rice University-MS Operations Research,4,Reliable and detail-oriented,"It is my pleasure to write this recommendation for Rice University-MS Operations Research. This candidate brings excellent communication skills to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to Rice University.",completed,1/3,2/23/2026,2/27/2026
+U0006,req_u0006@demo.edu,U0010,I'm pursuing an opportunity at Texas A&M-MS Electrical Engineering. Your endorsement would help.,Texas A&M-MS Electrical Engineering,4,"Hardworking, strong performer","I am writing to support this candidate's application to Texas A&M-MS Electrical Engineering. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at Texas A&M.",completed,1/3,2/01/2026,2/05/2026
+U0035,req_u0035@demo.edu,U0015,I'm applying to Cambridge-MS Biomedical Engineering and would really appreciate your recommendation.,Cambridge-MS Biomedical Engineering,5,"Innovative thinker, proactive",,pending,1/3,7/25/2024,
+U0048,req_u0048@demo.edu,U0017,I'm pursuing an opportunity at Cornell. Your endorsement would help.,Cornell,3,"Innovative thinker, proactive","I am writing to support this candidate's application to Cornell. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their exceptional teamwork, I believe they are well-prepared for this opportunity at Cornell.",completed,1/3,7/24/2025,8/02/2025
+U0041,req_u0041@demo.edu,U0049,Could you recommend me for Stanford? Your perspective would carry weight.,Stanford,3,"Decent effort, somewhat inconsistent","It is my pleasure to write this recommendation for Stanford. This candidate brings consistent high performance to every challenge and consistently exceeds expectations.
+
+Their the ability to tackle complex problems with rigor sets them apart from peers. I wholeheartedly support their application to Stanford.",completed,0/3,3/09/2025,3/14/2025
+U0041,req_u0041@demo.edu,U0044,Seeking a recommendation for Palantir. Thank you in advance.,Palantir,4,"Organized, meets every deadline","I strongly recommend this individual for Palantir. Having worked closely with them, I can attest to their strong analytical skills and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Palantir.",completed,0/3,1/08/2026,1/11/2026
+U0003,req_u0003@demo.edu,U0047,Seeking a recommendation for Salesforce. Thank you in advance.,Salesforce,3,"Organized, meets every deadline",,cancelled,0/3,2/09/2025,
+U0034,req_u0034@demo.edu,U0016,I need a recommendation for Summer Internship. Could you speak to my skills?,Summer Internship,4,"Brilliant academic, curious mind","I strongly recommend this individual for Summer Internship. Having worked closely with them, I can attest to their a sharp intellectual curiosity and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Summer Internship.",completed,0/3,8/24/2025,8/27/2025
+U0030,req_u0030@demo.edu,U0021,Applying to Salesforce and hoping you could provide a strong recommendation.,Salesforce,3,"Quick learner, eager to grow",,pending,0/3,1/05/2026,
+U0050,req_u0050@demo.edu,U0004,I'm pursuing an opportunity at UCLA. Your endorsement would help.,UCLA-PhD Economics,4,"Creative thinker, great collaborator","I strongly recommend this individual for UCLA-PhD Economics. Having worked closely with them, I can attest to their remarkable dedication and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to UCLA.",completed,0/3,11/09/2025,11/12/2025
+U0042,req_u0042@demo.edu,U0050,Would appreciate your recommendation for my application to Rhodes Scholarship.,Rhodes Scholarship,5,"Sharp analytical mind, fast learner","I strongly recommend this individual for Rhodes Scholarship. Having worked closely with them, I can attest to their a sharp intellectual curiosity and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to Rhodes Scholarship.",completed,0/3,2/09/2025,2/17/2025
+U0039,req_u0039@demo.edu,U0028,Would appreciate your recommendation for my application to Amazon.,Amazon,4,"Innovative thinker, proactive","I strongly recommend this individual for Amazon. Having worked closely with them, I can attest to their strong analytical skills and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Amazon.",completed,2/3,3/12/2025,3/19/2025
+U0039,req_u0039@demo.edu,U0047,Applying to Economics For Leaders Summer Program and hoping you could provide a strong recommendation.,Economics For Leaders Summer Program,1,Needs improvement in communication,,pending,1/3,3/13/2026,
+U0039,req_u0039@demo.edu,U0041,Seeking a recommendation for Teaching Fellowship. Thank you in advance.,Teaching Fellowship,3,Capable but unremarkable so far,"I strongly recommend this individual for Teaching Fellowship. Having worked closely with them, I can attest to their excellent communication skills and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to Teaching Fellowship.",completed,1/3,1/03/2025,1/12/2025
+U0015,req_u0015@demo.edu,U0032,I'm applying to Palantir and would really appreciate your recommendation.,Palantir,4,"Exceptional researcher, self-driven",,pending,2/3,7/20/2024,
+U0018,req_u0018@demo.edu,U0037,I'm applying to Snowflake and would really appreciate your recommendation.,Snowflake,4,"Strong problem solver, persistent","It is my pleasure to write this recommendation for Snowflake. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Snowflake.",completed,0/3,8/26/2025,9/04/2025
+U0026,req_u0026@demo.edu,U0025,Seeking a recommendation for Oxford. Thank you in advance.,Oxford-MS Operations Research,3,"Innovative thinker, proactive","It is my pleasure to write this recommendation for Oxford-MS Operations Research. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Oxford.",completed,0/3,11/17/2024,11/19/2024
+U0030,req_u0030@demo.edu,U0012,I'm applying to UT Austin-PhD Physics and would really appreciate your recommendation.,UT Austin-PhD Physics,3,Competent but still developing,"I strongly recommend this individual for UT Austin-PhD Physics. Having worked closely with them, I can attest to their exceptional problem-solving abilities and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to UT Austin.",completed,1/3,1/18/2025,1/28/2025
+U0038,req_u0038@demo.edu,U0026,Seeking a recommendation for Georgia Tech. Thank you in advance.,Georgia Tech-MS Machine Learning,5,"Sharp analytical mind, fast learner","I am writing to support this candidate's application to Georgia Tech-MS Machine Learning. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at Georgia Tech.",completed,2/3,9/13/2024,9/16/2024
+U0042,req_u0042@demo.edu,U0026,Would appreciate your recommendation for my application to Fulbright Scholarship.,Fulbright Scholarship,4,"Thorough researcher, methodical","It is my pleasure to write this recommendation for Fulbright Scholarship. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Fulbright Scholarship.",completed,1/3,6/09/2024,6/13/2024
+U0005,req_u0005@demo.edu,U0011,Applying to Snowflake. Your support would mean a lot to me.,Snowflake,4,"Exceptional researcher, self-driven",,cancelled,0/3,9/11/2024,
+U0011,req_u0011@demo.edu,U0025,I need a recommendation for Stripe. Could you speak to my skills?,Stripe,4,"Solid technical skills, dependable","I am pleased to recommend this individual for Stripe. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to Stripe.",completed,1/3,4/19/2025,4/23/2025
+U0036,req_u0036@demo.edu,U0026,Seeking a recommendation for IBM. Thank you in advance.,IBM,5,"Brilliant academic, curious mind",,pending,2/3,6/28/2024,
+U0008,req_u0008@demo.edu,U0001,I need a recommendation for Nvidia. Could you speak to my skills?,Nvidia,4,"Innovative thinker, proactive","I am writing to support this candidate's application to Nvidia. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their exceptional teamwork, I believe they are well-prepared for this opportunity at Nvidia.",completed,1/3,3/30/2025,4/01/2025
+U0044,req_u0044@demo.edu,U0017,Applying to Amazon. Your support would mean a lot to me.,Amazon,5,"Quick learner, eager to grow","I am writing to support this candidate's application to Amazon. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at Amazon.",completed,0/3,6/05/2025,6/12/2025
+U0007,req_u0007@demo.edu,U0031,Requesting a recommendation for Palantir. Happy to provide details.,Palantir,5,Reliable and detail-oriented,,cancelled,0/3,6/18/2024,
+U0013,req_u0013@demo.edu,U0018,Could you recommend me for University of Michigan? Your perspective would carry weight.,University of Michigan-MS Data Science,3,"Great with data, very precise",,cancelled,1/3,11/01/2025,
+U0032,req_u0032@demo.edu,U0038,Applying to Rice University-MS Electrical Engineering. Your support would mean a lot to me.,Rice University-MS Electrical Engineering,4,"Organized, meets every deadline","I strongly recommend this individual for Rice University-MS Electrical Engineering. Having worked closely with them, I can attest to their a sharp intellectual curiosity and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to Rice University.",completed,0/3,8/20/2024,8/30/2024
+U0049,req_u0049@demo.edu,U0042,I need a recommendation for Amazon. Could you speak to my skills?,Amazon,3,"Shows potential, needs guidance","I am writing to support this candidate's application to Amazon. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Amazon.",completed,1/3,1/31/2025,2/02/2025
+U0007,req_u0007@demo.edu,U0026,I'm applying to Microsoft and would really appreciate your recommendation.,Microsoft,3,"Innovative thinker, proactive","It is my pleasure to write this recommendation for Microsoft. This candidate brings strong analytical skills to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to Microsoft.",completed,2/3,11/27/2024,11/30/2024
+U0029,req_u0029@demo.edu,U0017,Applying to SpaceX and hoping you could provide a strong recommendation.,SpaceX,4,"Sharp analytical mind, fast learner","I strongly recommend this individual for SpaceX. Having worked closely with them, I can attest to their exceptional problem-solving abilities and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to SpaceX.",completed,2/3,2/21/2025,2/25/2025
+U0020,req_u0020@demo.edu,U0007,Would you be willing to write a recommendation for my Research Assistantship application?,Research Assistantship,5,"Solid technical skills, dependable",,pending,0/3,11/19/2025,
+U0033,req_u0033@demo.edu,U0050,Would appreciate your recommendation for my application to Amazon.,Amazon,5,"Hardworking, strong performer","I strongly recommend this individual for Amazon. Having worked closely with them, I can attest to their remarkable dedication and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to Amazon.",completed,1/3,6/04/2025,6/06/2025
+U0042,req_u0042@demo.edu,U0017,Could you recommend me for Startup Accelerator? Your perspective would carry weight.,Startup Accelerator,4,"Strong coder, delivers on time",,pending,0/3,1/20/2025,
+U0015,req_u0015@demo.edu,U0045,I'm pursuing an opportunity at MIT-PhD Physics. Your endorsement would help.,MIT-PhD Physics,4,"Natural leader, inspires others","I strongly recommend this individual for MIT-PhD Physics. Having worked closely with them, I can attest to their outstanding leadership qualities and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to MIT.",completed,0/3,12/01/2024,12/03/2024
+U0011,req_u0011@demo.edu,U0041,Would you be willing to write a recommendation for my Research Assistantship application?,Research Assistantship,4,"Great with data, very precise","I am pleased to recommend this individual for Research Assistantship. They have consistently demonstrated remarkable dedication and a commitment to excellence in every endeavor.
+
+During our time working together, they showed exceptional teamwork. I am confident they would be a valuable addition to Research Assistantship.",completed,0/3,1/07/2026,1/14/2026
+U0036,req_u0036@demo.edu,U0043,Seeking a recommendation for DS Mentoring Program. Thank you in advance.,DS Mentoring Program,5,Dedicated and disciplined student,,cancelled,0/3,9/20/2025,
+U0032,req_u0032@demo.edu,U0025,Requesting a recommendation for University of Chicago. Happy to provide details.,University of Chicago-MS Statistics,4,"Innovative thinker, proactive","It is my pleasure to write this recommendation for University of Chicago-MS Statistics. This candidate brings outstanding leadership qualities to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to University of Chicago.",completed,0/3,2/28/2026,3/05/2026
+U0007,req_u0007@demo.edu,U0017,I'm applying to Emory University-MS Operations Research and would really appreciate your recommendation.,Emory University-MS Operations Research,4,"Quick learner, eager to grow",,pending,2/3,6/10/2024,
+U0042,req_u0042@demo.edu,U0017,Would appreciate your recommendation for my application to NSF Fellowship.,NSF Fellowship,3,Competent but still developing,"It is my pleasure to write this recommendation for NSF Fellowship. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to NSF Fellowship.",completed,1/3,1/30/2025,2/07/2025
+U0007,req_u0007@demo.edu,U0018,Would you be willing to write a recommendation for my Duke application?,Duke,3,"Strong problem solver, persistent","I am pleased to recommend this individual for Duke. They have consistently demonstrated remarkable dedication and a commitment to excellence in every endeavor.
+
+During our time working together, they showed creative thinking and adaptability. I am confident they would be a valuable addition to Duke.",completed,2/3,6/17/2025,6/26/2025
+U0010,req_u0010@demo.edu,U0025,Applying to Economics For Leaders Summer Program. Your support would mean a lot to me.,Economics For Leaders Summer Program,5,"Natural leader, inspires others",,pending,0/3,8/20/2025,
+U0004,req_u0004@demo.edu,U0011,Would appreciate your recommendation for my application to University of Washington.,University of Washington,3,"Decent effort, somewhat inconsistent","It is my pleasure to write this recommendation for University of Washington. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to University of Washington.",completed,2/3,5/01/2025,5/08/2025
+U0019,req_u0019@demo.edu,U0025,I need a recommendation for UT Austin-Doctorate. Could you speak to my skills?,UT Austin-Doctorate,2,"Adequate skills, improving steadily",,completed,0/3,7/22/2025,7/25/2025
+U0034,req_u0034@demo.edu,U0050,I need a recommendation for University of Toronto. Could you speak to my skills?,University of Toronto,3,"Organized, meets every deadline","I strongly recommend this individual for University of Toronto. Having worked closely with them, I can attest to their remarkable dedication and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to University of Toronto.",completed,2/3,4/08/2025,4/10/2025
+U0004,req_u0004@demo.edu,U0007,Applying to SpaceX. Your support would mean a lot to me.,SpaceX,3,Competent but still developing,"I am writing to support this candidate's application to SpaceX. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at SpaceX.",completed,0/3,4/03/2025,4/09/2025
+U0031,req_u0031@demo.edu,U0025,I'm applying to Adobe and would really appreciate your recommendation.,Adobe,2,"Mediocre effort, inconsistent",,completed,0/3,10/22/2024,10/25/2024
+U0021,req_u0021@demo.edu,U0042,Requesting a recommendation for Rhodes Scholarship. Happy to provide details.,Rhodes Scholarship,4,"Solid technical skills, dependable","I am pleased to recommend this individual for Rhodes Scholarship. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Rhodes Scholarship.",completed,1/3,6/17/2025,6/20/2025
+U0039,req_u0039@demo.edu,U0017,Would appreciate your recommendation for my application to Northwestern.,Northwestern,3,Competent but still developing,"It is my pleasure to write this recommendation for Northwestern. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their remarkable growth over a short period sets them apart from peers. I wholeheartedly support their application to Northwestern.",completed,0/3,10/04/2024,10/06/2024
+U0012,req_u0012@demo.edu,U0031,Applying to Palantir and hoping you could provide a strong recommendation.,Palantir,4,"Brilliant academic, curious mind","It is my pleasure to write this recommendation for Palantir. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their a passion for continuous learning sets them apart from peers. I wholeheartedly support their application to Palantir.",completed,2/3,8/11/2025,8/15/2025
+U0015,req_u0015@demo.edu,U0035,Would appreciate your recommendation for my application to UC Berkeley-MS Machine Learning.,UC Berkeley-MS Machine Learning,4,"Creative thinker, great collaborator",,pending,1/3,7/27/2025,
+U0034,req_u0034@demo.edu,U0027,Could you recommend me for Cornell-MS Statistics? Your perspective would carry weight.,Cornell-MS Statistics,3,"Great with data, very precise",,pending,1/3,2/11/2025,
+U0004,req_u0004@demo.edu,U0050,Requesting a recommendation for Cornell. Happy to provide details.,Cornell,3,"Quick learner, eager to grow","I strongly recommend this individual for Cornell. Having worked closely with them, I can attest to their a sharp intellectual curiosity and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to Cornell.",completed,1/3,10/10/2025,10/17/2025
+U0034,req_u0034@demo.edu,U0015,Would appreciate your recommendation for my application to University of Washington-MS Computer Science.,University of Washington-MS Computer Science,3,"Quick learner, eager to grow",,cancelled,0/3,7/30/2024,
+U0005,req_u0005@demo.edu,U0025,Could you recommend me for Duke? Your perspective would carry weight.,Duke,2,"Mediocre effort, inconsistent",,completed,2/3,2/02/2025,2/08/2025
+U0050,req_u0050@demo.edu,U0025,Applying to Rhodes Scholarship. Your support would mean a lot to me.,Rhodes Scholarship,5,"Hardworking, strong performer",,pending,1/3,5/30/2025,
+U0006,req_u0006@demo.edu,U0050,Applying to University of Washington and hoping you could provide a strong recommendation.,University of Washington,3,"Strong problem solver, persistent",,pending,1/3,6/29/2024,
+U0036,req_u0036@demo.edu,U0039,Seeking a recommendation for Salesforce. Thank you in advance.,Salesforce,2,"Below expectations, lacks drive",,pending,1/3,12/08/2025,
+U0041,req_u0041@demo.edu,U0026,Could you recommend me for Amazon? Your perspective would carry weight.,Amazon,3,"Thorough researcher, methodical","I am pleased to recommend this individual for Amazon. They have consistently demonstrated excellent communication skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to Amazon.",completed,1/3,1/11/2025,1/13/2025
+U0032,req_u0032@demo.edu,U0026,Requesting a recommendation for Georgia Tech. Happy to provide details.,Georgia Tech-Doctorate,4,"Sharp analytical mind, fast learner",,cancelled,0/3,7/31/2024,
+U0036,req_u0036@demo.edu,U0003,I'm pursuing an opportunity at Leadership Development Program. Your endorsement would help.,Leadership Development Program,3,"Strong problem solver, persistent",,cancelled,0/3,6/18/2025,
+U0010,req_u0010@demo.edu,U0020,Applying to ETH Zurich-Doctorate. Your support would mean a lot to me.,ETH Zurich-Doctorate,3,"Innovative thinker, proactive",,pending,1/3,10/12/2025,
+U0027,req_u0027@demo.edu,U0018,Applying to Startup Accelerator. Your support would mean a lot to me.,Startup Accelerator,3,"Excellent communicator, team player",,pending,0/3,1/25/2026,
+U0013,req_u0013@demo.edu,U0049,Requesting a recommendation for Cambridge-MS Computer Science. Happy to provide details.,Cambridge-MS Computer Science,4,"Creative thinker, great collaborator",,cancelled,1/3,7/06/2025,
+U0042,req_u0042@demo.edu,U0016,Would you be willing to write a recommendation for my University of Washington application?,University of Washington,4,"Innovative thinker, proactive",,cancelled,0/3,1/01/2026,
+U0006,req_u0006@demo.edu,U0042,I need a recommendation for Princeton. Could you speak to my skills?,Princeton-MS Biomedical Engineering,3,"Adequate skills, improving steadily","I am pleased to recommend this individual for Princeton-MS Biomedical Engineering. They have consistently demonstrated excellent communication skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to Princeton.",completed,0/3,5/10/2025,5/19/2025
+U0034,req_u0034@demo.edu,U0026,I'm pursuing an opportunity at DS Mentoring Program. Your endorsement would help.,DS Mentoring Program,3,"Thorough researcher, methodical","I am writing to support this candidate's application to DS Mentoring Program. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at DS Mentoring Program.",completed,1/3,8/04/2025,8/08/2025
+U0039,req_u0039@demo.edu,U0018,Applying to Caltech. Your support would mean a lot to me.,Caltech,2,"Adequate skills, improving steadily",,pending,2/3,1/17/2025,
+U0007,req_u0007@demo.edu,U0017,I'm pursuing an opportunity at Harvard. Your endorsement would help.,Harvard-MS Biomedical Engineering,4,"Hardworking, strong performer","I am pleased to recommend this individual for Harvard-MS Biomedical Engineering. They have consistently demonstrated exceptional problem-solving abilities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to Harvard.",completed,0/3,8/15/2024,8/22/2024
+U0029,req_u0029@demo.edu,U0048,Requesting a recommendation for Palantir. Happy to provide details.,Palantir,3,"Excellent communicator, team player",,pending,1/3,11/16/2024,
+U0006,req_u0006@demo.edu,U0044,Seeking a recommendation for UT Austin-MS Statistics. Thank you in advance.,UT Austin-MS Statistics,5,"Natural leader, inspires others","I am pleased to recommend this individual for UT Austin-MS Statistics. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to UT Austin.",completed,1/3,12/06/2025,12/12/2025
+U0015,req_u0015@demo.edu,U0050,Would you be willing to write a recommendation for my Palantir application?,Palantir,2,Competent but still developing,,completed,0/3,6/04/2024,6/12/2024
+U0034,req_u0034@demo.edu,U0009,Applying to Startup Accelerator. Your support would mean a lot to me.,Startup Accelerator,4,Dedicated and disciplined student,"I am pleased to recommend this individual for Startup Accelerator. They have consistently demonstrated consistent high performance and a commitment to excellence in every endeavor.
+
+During our time working together, they showed remarkable growth over a short period. I am confident they would be a valuable addition to Startup Accelerator.",completed,0/3,6/27/2024,7/02/2024
+U0003,req_u0003@demo.edu,U0010,I'm pursuing an opportunity at Rice University. Your endorsement would help.,Rice University-MS Information Systems,4,"Thorough researcher, methodical","It is my pleasure to write this recommendation for Rice University-MS Information Systems. This candidate brings consistent high performance to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to Rice University.",completed,1/3,7/02/2025,7/06/2025
+U0015,req_u0015@demo.edu,U0026,Applying to University of Chicago and hoping you could provide a strong recommendation.,University of Chicago-MS Information Systems,4,"Organized, meets every deadline",,pending,0/3,9/08/2024,
+U0013,req_u0013@demo.edu,U0043,Would appreciate your recommendation for my application to Duke-JD Program.,Duke-JD Program,5,"Natural leader, inspires others",,pending,1/3,12/01/2025,
+U0002,wimharrisryden1@gmail.com,U0031,Requesting a recommendation for Amazon. Happy to provide details.,Amazon,5,"Great with data, very precise","It is my pleasure to write this recommendation for Amazon. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their remarkable growth over a short period sets them apart from peers. I wholeheartedly support their application to Amazon.",completed,2/3,7/06/2024,7/16/2024
+U0039,req_u0039@demo.edu,U0025,I'm pursuing an opportunity at UCLA. Your endorsement would help.,UCLA,3,"Shows potential, needs guidance",,pending,0/3,7/14/2024,
+U0022,req_u0022@demo.edu,U0039,Applying to Teaching Fellowship and hoping you could provide a strong recommendation.,Teaching Fellowship,2,Needs improvement in communication,,completed,2/3,10/30/2024,11/05/2024
+U0021,req_u0021@demo.edu,U0013,Would you be willing to write a recommendation for my Rice University-MS Information Systems application?,Rice University-MS Information Systems,4,"Strong problem solver, persistent","It is my pleasure to write this recommendation for Rice University-MS Information Systems. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their the ability to tackle complex problems with rigor sets them apart from peers. I wholeheartedly support their application to Rice University.",completed,0/3,3/01/2026,3/11/2026
+U0032,req_u0032@demo.edu,U0033,Seeking a recommendation for Apple. Thank you in advance.,Apple,4,"Organized, meets every deadline",,cancelled,1/3,9/12/2024,
+U0010,req_u0010@demo.edu,U0017,I'm applying to Teaching Fellowship and would really appreciate your recommendation.,Teaching Fellowship,5,"Hardworking, strong performer","I strongly recommend this individual for Teaching Fellowship. Having worked closely with them, I can attest to their a sharp intellectual curiosity and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Teaching Fellowship.",completed,2/3,10/11/2025,10/20/2025
+U0032,req_u0032@demo.edu,U0026,Would appreciate your recommendation for my application to Stripe.,Stripe,4,"Solid technical skills, dependable","I strongly recommend this individual for Stripe. Having worked closely with them, I can attest to their strong analytical skills and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to Stripe.",completed,0/3,1/30/2025,2/01/2025
+U0006,req_u0006@demo.edu,U0045,Applying to NSF Fellowship. Your support would mean a lot to me.,NSF Fellowship,4,Dedicated and disciplined student,"I am writing to support this candidate's application to NSF Fellowship. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their a passion for continuous learning, I believe they are well-prepared for this opportunity at NSF Fellowship.",completed,1/3,9/09/2024,9/14/2024
+U0015,req_u0015@demo.edu,U0026,Could you recommend me for Amazon? Your perspective would carry weight.,Amazon,5,"Thorough researcher, methodical","I am pleased to recommend this individual for Amazon. They have consistently demonstrated remarkable dedication and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Amazon.",completed,0/3,7/22/2025,7/31/2025
+U0017,req_u0017@demo.edu,U0050,I need a recommendation for Dartmouth. Could you speak to my skills?,Dartmouth-MS Cybersecurity,3,"Organized, meets every deadline",,cancelled,0/3,11/25/2024,
+U0002,wimharrisryden1@gmail.com,U0017,Could you recommend me for Harvard-MS Operations Research? Your perspective would carry weight.,Harvard-MS Operations Research,5,"Quick learner, eager to grow",,pending,0/3,6/13/2025,
+U0034,req_u0034@demo.edu,U0014,Would appreciate your recommendation for my application to Apple.,Apple,3,"Strong problem solver, persistent",,pending,0/3,6/17/2025,
+U0011,req_u0011@demo.edu,U0050,I'm applying to Caltech and would really appreciate your recommendation.,Caltech-MS Operations Research,3,"Average performer, room to grow","It is my pleasure to write this recommendation for Caltech-MS Operations Research. This candidate brings outstanding leadership qualities to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Caltech.",completed,0/3,9/01/2024,9/07/2024
+U0004,req_u0004@demo.edu,U0003,Applying to University of Michigan-MD Program. Your support would mean a lot to me.,University of Michigan-MD Program,3,"Strong problem solver, persistent","I am pleased to recommend this individual for University of Michigan-MD Program. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to University of Michigan.",completed,2/3,6/10/2024,6/19/2024
+U0021,req_u0021@demo.edu,U0042,I'm pursuing an opportunity at IBM. Your endorsement would help.,IBM,5,"Quick learner, eager to grow",,pending,2/3,3/09/2025,
+U0022,req_u0022@demo.edu,U0011,Requesting a recommendation for Summer Internship. Happy to provide details.,Summer Internship,4,"Quick learner, eager to grow","I am pleased to recommend this individual for Summer Internship. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to Summer Internship.",completed,1/3,4/06/2025,4/16/2025
+U0011,req_u0011@demo.edu,U0035,Seeking a recommendation for Research Assistantship. Thank you in advance.,Research Assistantship,4,Dedicated and disciplined student,,pending,1/3,2/14/2026,
+U0021,req_u0021@demo.edu,U0041,Seeking a recommendation for Palantir. Thank you in advance.,Palantir,5,Dedicated and disciplined student,"It is my pleasure to write this recommendation for Palantir. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their the ability to tackle complex problems with rigor sets them apart from peers. I wholeheartedly support their application to Palantir.",completed,0/3,4/29/2025,5/05/2025
+U0006,req_u0006@demo.edu,U0007,Applying to DS Mentoring Program and hoping you could provide a strong recommendation.,DS Mentoring Program,2,"Below expectations, lacks drive",,pending,1/3,7/19/2025,
+U0047,req_u0047@demo.edu,U0042,I'm pursuing an opportunity at Palantir. Your endorsement would help.,Palantir,4,"Quick learner, eager to grow",,cancelled,0/3,8/03/2025,
+U0004,req_u0004@demo.edu,U0045,Would appreciate your recommendation for my application to Salesforce.,Salesforce,4,"Thorough researcher, methodical","I strongly recommend this individual for Salesforce. Having worked closely with them, I can attest to their remarkable dedication and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Salesforce.",completed,2/3,1/14/2025,1/24/2025
+U0041,req_u0041@demo.edu,U0026,Could you recommend me for Netflix? Your perspective would carry weight.,Netflix,4,"Hardworking, strong performer","I strongly recommend this individual for Netflix. Having worked closely with them, I can attest to their exceptional problem-solving abilities and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Netflix.",completed,1/3,10/10/2024,10/16/2024
+U0021,req_u0021@demo.edu,U0017,Would appreciate your recommendation for my application to ETH Zurich-MS Biomedical Engineering.,ETH Zurich-MS Biomedical Engineering,4,"Creative thinker, great collaborator","I am pleased to recommend this individual for ETH Zurich-MS Biomedical Engineering. They have consistently demonstrated consistent high performance and a commitment to excellence in every endeavor.
+
+During our time working together, they showed exceptional teamwork. I am confident they would be a valuable addition to ETH Zurich.",completed,1/3,3/29/2025,4/07/2025
+U0004,req_u0004@demo.edu,U0026,Applying to Stripe. Your support would mean a lot to me.,Stripe,4,"Brilliant academic, curious mind","I strongly recommend this individual for Stripe. Having worked closely with them, I can attest to their a sharp intellectual curiosity and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to Stripe.",completed,1/3,7/26/2024,7/30/2024
+U0005,req_u0005@demo.edu,U0050,Would appreciate your recommendation for my application to Summer Internship.,Summer Internship,1,"Shows potential, needs guidance",,completed,2/3,12/02/2024,12/05/2024
+U0037,req_u0037@demo.edu,U0035,Seeking a recommendation for Netflix. Thank you in advance.,Netflix,4,"Brilliant academic, curious mind","It is my pleasure to write this recommendation for Netflix. This candidate brings remarkable dedication to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Netflix.",completed,0/3,6/05/2024,6/14/2024
+U0004,req_u0004@demo.edu,U0002,I'm pursuing an opportunity at Economics For Leaders Summer Program. Your endorsement would help.,Economics For Leaders Summer Program,3,"Excellent communicator, team player","I am writing to support this candidate's application to Economics For Leaders Summer Program. They possess a sharp intellectual curiosity that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at Economics For Leaders Summer Program.",completed,1/3,3/11/2026,3/19/2026
+U0049,req_u0049@demo.edu,U0041,I need a recommendation for Carnegie Mellon. Could you speak to my skills?,Carnegie Mellon,4,"Strong coder, delivers on time",,cancelled,0/3,11/26/2025,
+U0007,req_u0007@demo.edu,U0035,Would you be willing to write a recommendation for my Adobe application?,Adobe,3,"Excellent communicator, team player","I strongly recommend this individual for Adobe. Having worked closely with them, I can attest to their remarkable dedication and an ability to work well under pressure.
+
+They would thrive in this environment and make meaningful contributions to Adobe.",completed,0/3,4/16/2025,4/20/2025
+U0044,req_u0044@demo.edu,U0041,Requesting a recommendation for NSF Fellowship. Happy to provide details.,NSF Fellowship,4,"Great with data, very precise",,cancelled,1/3,11/15/2025,
+U0049,req_u0049@demo.edu,U0035,I need a recommendation for Georgia Tech. Could you speak to my skills?,Georgia Tech-PhD Physics,2,"Below expectations, lacks drive",,completed,0/3,11/16/2024,11/24/2024
+U0026,req_u0026@demo.edu,U0003,Seeking a recommendation for Stanford-Doctorate. Thank you in advance.,Stanford-Doctorate,4,"Organized, meets every deadline","I am pleased to recommend this individual for Stanford-Doctorate. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed creative thinking and adaptability. I am confident they would be a valuable addition to Stanford.",completed,2/3,7/09/2024,7/17/2024
+U0015,req_u0015@demo.edu,U0009,Applying to Stanford. Your support would mean a lot to me.,Stanford-PhD Computer Science,5,"Brilliant academic, curious mind","I am pleased to recommend this individual for Stanford-PhD Computer Science. They have consistently demonstrated impressive technical expertise and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Stanford.",completed,1/3,10/05/2024,10/15/2024
+U0030,req_u0030@demo.edu,U0039,Would you be willing to write a recommendation for my Nvidia application?,Nvidia,3,"Quick learner, eager to grow","I am pleased to recommend this individual for Nvidia. They have consistently demonstrated impressive technical expertise and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Nvidia.",completed,1/3,10/19/2024,10/27/2024
+U0007,req_u0007@demo.edu,U0004,I need a recommendation for Summer Internship. Could you speak to my skills?,Summer Internship,3,Capable but unremarkable so far,"I am writing to support this candidate's application to Summer Internship. They possess impressive technical expertise that makes them stand out among their peers.
+
+Coupled with their exceptional teamwork, I believe they are well-prepared for this opportunity at Summer Internship.",completed,0/3,2/25/2025,3/07/2025
+U0016,req_u0016@demo.edu,U0025,I need a recommendation for Brown. Could you speak to my skills?,Brown,2,"Mediocre effort, inconsistent",,pending,1/3,5/05/2025,
+U0017,req_u0017@demo.edu,U0012,Applying to Columbia. Your support would mean a lot to me.,Columbia,2,Needs improvement in communication,,pending,2/3,10/19/2025,
+U0008,req_u0008@demo.edu,U0045,I need a recommendation for Economics For Leaders Summer Program. Could you speak to my skills?,Economics For Leaders Summer Program,5,"Outstanding work ethic, consistent",,pending,0/3,2/18/2025,
+U0013,req_u0013@demo.edu,U0042,I'm applying to NSF Fellowship and would really appreciate your recommendation.,NSF Fellowship,2,Competent but still developing,,completed,0/3,9/11/2024,9/15/2024
+U0011,req_u0011@demo.edu,U0027,Applying to University of Washington-PhD Computer Science. Your support would mean a lot to me.,University of Washington-PhD Computer Science,5,"Excellent communicator, team player","I strongly recommend this individual for University of Washington-PhD Computer Science. Having worked closely with them, I can attest to their consistent high performance and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to University of Washington.",completed,0/3,6/10/2024,6/14/2024
+U0038,req_u0038@demo.edu,U0025,I'm pursuing an opportunity at Columbia. Your endorsement would help.,Columbia-MS Biomedical Engineering,4,"Innovative thinker, proactive","I am writing to support this candidate's application to Columbia-MS Biomedical Engineering. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at Columbia.",completed,1/3,7/15/2025,7/24/2025
+U0004,req_u0004@demo.edu,U0019,Requesting a recommendation for Yale. Happy to provide details.,Yale,4,"Innovative thinker, proactive",,pending,0/3,8/01/2025,
+U0012,req_u0012@demo.edu,U0026,Applying to Summer Internship. Your support would mean a lot to me.,Summer Internship,5,"Innovative thinker, proactive","I am writing to support this candidate's application to Summer Internship. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their strong initiative and self-motivation, I believe they are well-prepared for this opportunity at Summer Internship.",completed,1/3,6/03/2025,6/05/2025
+U0036,req_u0036@demo.edu,U0042,Applying to Princeton-MS Biomedical Engineering and hoping you could provide a strong recommendation.,Princeton-MS Biomedical Engineering,4,"Great with data, very precise","I am pleased to recommend this individual for Princeton-MS Biomedical Engineering. They have consistently demonstrated a sharp intellectual curiosity and a commitment to excellence in every endeavor.
+
+During our time working together, they showed creative thinking and adaptability. I am confident they would be a valuable addition to Princeton.",completed,2/3,11/20/2025,11/25/2025
+U0007,req_u0007@demo.edu,U0021,Could you recommend me for Palantir? Your perspective would carry weight.,Palantir,3,"Strong problem solver, persistent","I am pleased to recommend this individual for Palantir. They have consistently demonstrated strong analytical skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed creative thinking and adaptability. I am confident they would be a valuable addition to Palantir.",completed,2/3,6/30/2025,7/04/2025
+U0038,req_u0038@demo.edu,U0039,Would you be willing to write a recommendation for my Leadership Development Program application?,Leadership Development Program,5,"Innovative thinker, proactive",,pending,1/3,11/17/2024,
+U0005,req_u0005@demo.edu,U0030,I'm pursuing an opportunity at Purdue. Your endorsement would help.,Purdue,2,Struggles with deadlines,,completed,0/3,12/16/2025,12/24/2025
+U0038,req_u0038@demo.edu,U0012,Would you be willing to write a recommendation for my Northwestern application?,Northwestern,4,"Innovative thinker, proactive","I am pleased to recommend this individual for Northwestern. They have consistently demonstrated exceptional problem-solving abilities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Northwestern.",completed,1/3,9/01/2025,9/08/2025
+U0028,req_u0028@demo.edu,U0042,Seeking a recommendation for MIT. Thank you in advance.,MIT,3,"Quick learner, eager to grow",,pending,1/3,3/15/2026,
+U0005,req_u0005@demo.edu,U0025,I need a recommendation for Snowflake. Could you speak to my skills?,Snowflake,2,"Adequate skills, improving steadily",,cancelled,0/3,7/26/2024,
+U0034,req_u0034@demo.edu,U0018,I need a recommendation for Caltech. Could you speak to my skills?,Caltech,4,"Strong coder, delivers on time","I strongly recommend this individual for Caltech. Having worked closely with them, I can attest to their excellent communication skills and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Caltech.",completed,1/3,9/25/2024,9/28/2024
+U0036,req_u0036@demo.edu,U0031,Applying to IBM. Your support would mean a lot to me.,IBM,5,"Innovative thinker, proactive","It is my pleasure to write this recommendation for IBM. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to IBM.",completed,0/3,9/17/2024,9/19/2024
+U0026,req_u0026@demo.edu,U0043,I'm applying to Carnegie Mellon-JD Program and would really appreciate your recommendation.,Carnegie Mellon-JD Program,4,"Exceptional researcher, self-driven","I am writing to support this candidate's application to Carnegie Mellon-JD Program. They possess consistent high performance that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at Carnegie Mellon.",completed,0/3,5/13/2025,5/16/2025
+U0004,req_u0004@demo.edu,U0039,I'm applying to Nvidia and would really appreciate your recommendation.,Nvidia,2,"Decent effort, somewhat inconsistent",,completed,1/3,6/05/2024,6/15/2024
+U0048,req_u0048@demo.edu,U0023,Applying to Startup Accelerator. Your support would mean a lot to me.,Startup Accelerator,4,"Exceptional researcher, self-driven","I am writing to support this candidate's application to Startup Accelerator. They possess excellent communication skills that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at Startup Accelerator.",completed,1/3,11/29/2024,12/03/2024
+U0050,req_u0050@demo.edu,U0023,Seeking a recommendation for Teaching Fellowship. Thank you in advance.,Teaching Fellowship,5,"Quick learner, eager to grow",,cancelled,2/3,2/10/2025,
+U0034,req_u0034@demo.edu,U0041,Requesting a recommendation for NSF Fellowship. Happy to provide details.,NSF Fellowship,4,"Great with data, very precise","I strongly recommend this individual for NSF Fellowship. Having worked closely with them, I can attest to their excellent communication skills and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to NSF Fellowship.",completed,0/3,10/20/2024,10/28/2024
+U0001,req_u0001@demo.edu,U0013,Applying to Salesforce. Your support would mean a lot to me.,Salesforce,4,"Hardworking, strong performer","I strongly recommend this individual for Salesforce. Having worked closely with them, I can attest to their exceptional problem-solving abilities and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Salesforce.",completed,1/3,3/25/2025,4/01/2025
+U0032,req_u0032@demo.edu,U0022,I'm pursuing an opportunity at Caltech-MD Program. Your endorsement would help.,Caltech-MD Program,4,"Strong coder, delivers on time",,pending,1/3,3/20/2025,
+U0004,req_u0004@demo.edu,U0030,Seeking a recommendation for Google. Thank you in advance.,Google,4,"Hardworking, strong performer","I strongly recommend this individual for Google. Having worked closely with them, I can attest to their impressive technical expertise and exceptional teamwork.
+
+They would thrive in this environment and make meaningful contributions to Google.",completed,0/3,7/28/2024,8/02/2024
+U0028,req_u0028@demo.edu,U0031,Would appreciate your recommendation for my application to NSF Fellowship.,NSF Fellowship,3,"Shows potential, needs guidance","It is my pleasure to write this recommendation for NSF Fellowship. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to NSF Fellowship.",completed,1/3,7/04/2024,7/11/2024
+U0041,req_u0041@demo.edu,U0026,I'm pursuing an opportunity at IBM. Your endorsement would help.,IBM,4,"Strong problem solver, persistent",,pending,0/3,6/26/2025,
+U0004,req_u0004@demo.edu,U0020,Seeking a recommendation for Research Assistantship. Thank you in advance.,Research Assistantship,4,"Brilliant academic, curious mind",,cancelled,0/3,6/14/2024,
+U0036,req_u0036@demo.edu,U0041,Requesting a recommendation for Snowflake. Happy to provide details.,Snowflake,4,"Organized, meets every deadline",,pending,2/3,6/12/2025,
+U0006,req_u0006@demo.edu,U0039,Would appreciate your recommendation for my application to Salesforce.,Salesforce,2,"Below expectations, lacks drive",,pending,0/3,3/29/2025,
+U0004,req_u0004@demo.edu,U0017,I'm pursuing an opportunity at Economics For Leaders Summer Program. Your endorsement would help.,Economics For Leaders Summer Program,4,"Creative thinker, great collaborator","I am writing to support this candidate's application to Economics For Leaders Summer Program. They possess impressive technical expertise that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at Economics For Leaders Summer Program.",completed,0/3,11/09/2025,11/12/2025
+U0036,req_u0036@demo.edu,U0017,Applying to UCLA and hoping you could provide a strong recommendation.,UCLA-MS Information Systems,3,"Strong problem solver, persistent","I am pleased to recommend this individual for UCLA-MS Information Systems. They have consistently demonstrated impressive technical expertise and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to UCLA.",completed,1/3,11/06/2024,11/08/2024
+U0019,req_u0019@demo.edu,U0033,I need a recommendation for Leadership Development Program. Could you speak to my skills?,Leadership Development Program,4,"Hardworking, strong performer","I am pleased to recommend this individual for Leadership Development Program. They have consistently demonstrated remarkable dedication and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Leadership Development Program.",completed,2/3,4/22/2025,5/02/2025
+U0017,req_u0017@demo.edu,U0029,Applying to Stripe and hoping you could provide a strong recommendation.,Stripe,3,Capable but unremarkable so far,"I strongly recommend this individual for Stripe. Having worked closely with them, I can attest to their outstanding leadership qualities and remarkable growth over a short period.
+
+They would thrive in this environment and make meaningful contributions to Stripe.",completed,0/3,1/05/2025,1/12/2025
+U0007,req_u0007@demo.edu,U0023,Would you be willing to write a recommendation for my Palantir application?,Palantir,4,"Thorough researcher, methodical",,cancelled,2/3,6/10/2024,
+U0039,req_u0039@demo.edu,U0005,Would you be willing to write a recommendation for my Wayne State University application?,Wayne State University,3,"Excellent communicator, team player",,pending,0/3,6/26/2025,
+U0021,req_u0021@demo.edu,U0044,Would appreciate your recommendation for my application to Cambridge-MS Cybersecurity.,Cambridge-MS Cybersecurity,3,"Thorough researcher, methodical",,pending,0/3,11/09/2025,
+U0021,req_u0021@demo.edu,U0048,Would you be willing to write a recommendation for my Carnegie Mellon-MBA application?,Carnegie Mellon-MBA,4,"Brilliant academic, curious mind",,cancelled,0/3,12/03/2025,
+U0006,req_u0006@demo.edu,U0007,I need a recommendation for Salesforce. Could you speak to my skills?,Salesforce,3,"Quick learner, eager to grow",,cancelled,1/3,9/15/2024,
+U0045,req_u0045@demo.edu,U0041,I'm applying to Teaching Fellowship and would really appreciate your recommendation.,Teaching Fellowship,5,"Outstanding work ethic, consistent",,pending,0/3,11/05/2024,
+U0039,req_u0039@demo.edu,U0012,Could you recommend me for Microsoft? Your perspective would carry weight.,Microsoft,2,Needs improvement in communication,,completed,0/3,11/30/2024,12/06/2024
+U0034,req_u0034@demo.edu,U0050,Would appreciate your recommendation for my application to Adobe.,Adobe,2,"Average performer, room to grow",,cancelled,1/3,7/03/2025,
+U0004,req_u0004@demo.edu,U0003,Requesting a recommendation for Stanford-PhD Computer Science. Happy to provide details.,Stanford-PhD Computer Science,3,Competent but still developing,"I am pleased to recommend this individual for Stanford-PhD Computer Science. They have consistently demonstrated excellent communication skills and a commitment to excellence in every endeavor.
+
+During our time working together, they showed the ability to tackle complex problems with rigor. I am confident they would be a valuable addition to Stanford.",completed,2/3,2/24/2026,2/27/2026
+U0012,req_u0012@demo.edu,U0041,I'm applying to ETH Zurich and would really appreciate your recommendation.,ETH Zurich,5,"Innovative thinker, proactive","It is my pleasure to write this recommendation for ETH Zurich. This candidate brings outstanding leadership qualities to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to ETH Zurich.",completed,1/3,6/26/2025,7/04/2025
+U0012,req_u0012@demo.edu,U0039,Applying to IBM and hoping you could provide a strong recommendation.,IBM,4,"Strong coder, delivers on time",,cancelled,0/3,4/02/2025,
+U0042,req_u0042@demo.edu,U0017,Could you recommend me for Meta? Your perspective would carry weight.,Meta,3,"Quick learner, eager to grow","I am pleased to recommend this individual for Meta. They have consistently demonstrated impressive technical expertise and a commitment to excellence in every endeavor.
+
+During our time working together, they showed exceptional teamwork. I am confident they would be a valuable addition to Meta.",completed,0/3,1/08/2026,1/16/2026
+U0022,req_u0022@demo.edu,U0002,Applying to SpaceX. Your support would mean a lot to me.,SpaceX,3,"Average performer, room to grow","It is my pleasure to write this recommendation for SpaceX. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to SpaceX.",completed,2/3,11/07/2025,11/11/2025
+U0039,req_u0039@demo.edu,U0007,Could you recommend me for Yale? Your perspective would carry weight.,Yale,3,"Shows potential, needs guidance",,cancelled,1/3,9/16/2025,
+U0036,req_u0036@demo.edu,U0027,I need a recommendation for Princeton. Could you speak to my skills?,Princeton-MS Statistics,4,"Exceptional researcher, self-driven",,pending,1/3,5/05/2025,
+U0023,req_u0023@demo.edu,U0050,Requesting a recommendation for Princeton. Happy to provide details.,Princeton,3,"Average performer, room to grow","I strongly recommend this individual for Princeton. Having worked closely with them, I can attest to their excellent communication skills and strong initiative and self-motivation.
+
+They would thrive in this environment and make meaningful contributions to Princeton.",completed,1/3,5/03/2025,5/09/2025
+U0034,req_u0034@demo.edu,U0015,Applying to University of Washington and hoping you could provide a strong recommendation.,University of Washington-MS Machine Learning,2,"Below expectations, lacks drive",,pending,2/3,8/21/2025,
+U0021,req_u0021@demo.edu,U0050,Applying to Tesla and hoping you could provide a strong recommendation.,Tesla,2,Competent but still developing,,cancelled,1/3,8/31/2025,
+U0003,req_u0003@demo.edu,U0038,Applying to Apple. Your support would mean a lot to me.,Apple,4,"Organized, meets every deadline","It is my pleasure to write this recommendation for Apple. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Apple.",completed,1/3,8/23/2024,8/29/2024
+U0004,req_u0004@demo.edu,U0037,I'm applying to Economics For Leaders Summer Program and would really appreciate your recommendation.,Economics For Leaders Summer Program,5,"Quick learner, eager to grow",,pending,0/3,11/02/2025,
+U0042,req_u0042@demo.edu,U0038,Could you recommend me for Rhodes Scholarship? Your perspective would carry weight.,Rhodes Scholarship,4,"Organized, meets every deadline",,cancelled,1/3,2/22/2025,
+U0039,req_u0039@demo.edu,U0027,Applying to Meta. Your support would mean a lot to me.,Meta,3,"Thorough researcher, methodical","I am pleased to recommend this individual for Meta. They have consistently demonstrated a sharp intellectual curiosity and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to Meta.",completed,0/3,1/25/2026,1/31/2026
+U0004,req_u0004@demo.edu,U0025,Could you recommend me for Adobe? Your perspective would carry weight.,Adobe,2,"Below expectations, lacks drive",,pending,1/3,11/17/2024,
+U0020,req_u0020@demo.edu,U0010,Would appreciate your recommendation for my application to NYU.,NYU-MS Electrical Engineering,5,"Natural leader, inspires others",,pending,1/3,6/03/2025,
+U0021,req_u0021@demo.edu,U0025,I'm applying to University of Illinois-MS Statistics and would really appreciate your recommendation.,University of Illinois-MS Statistics,5,"Creative thinker, great collaborator","I strongly recommend this individual for University of Illinois-MS Statistics. Having worked closely with them, I can attest to their exceptional problem-solving abilities and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to University of Illinois.",completed,0/3,7/03/2025,7/12/2025
+U0037,req_u0037@demo.edu,U0017,Could you recommend me for NSF Fellowship? Your perspective would carry weight.,NSF Fellowship,5,"Hardworking, strong performer",,pending,0/3,1/14/2026,
+U0015,req_u0015@demo.edu,U0050,Applying to Cornell and hoping you could provide a strong recommendation.,Cornell-MBA,3,"Thorough researcher, methodical","I am writing to support this candidate's application to Cornell-MBA. They possess strong analytical skills that makes them stand out among their peers.
+
+Coupled with their the ability to tackle complex problems with rigor, I believe they are well-prepared for this opportunity at Cornell.",completed,1/3,1/15/2025,1/25/2025
+U0039,req_u0039@demo.edu,U0015,I need a recommendation for Summer Internship. Could you speak to my skills?,Summer Internship,2,"Below expectations, lacks drive",,completed,0/3,11/09/2025,11/15/2025
+U0038,req_u0038@demo.edu,U0026,I'm pursuing an opportunity at University of Illinois. Your endorsement would help.,University of Illinois,5,"Excellent communicator, team player",,pending,2/3,1/22/2025,
+U0034,req_u0034@demo.edu,U0012,Requesting a recommendation for Palantir. Happy to provide details.,Palantir,2,"Below expectations, lacks drive",,pending,1/3,1/02/2025,
+U0047,req_u0047@demo.edu,U0028,Applying to Databricks. Your support would mean a lot to me.,Databricks,5,"Great with data, very precise","I am pleased to recommend this individual for Databricks. They have consistently demonstrated remarkable dedication and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Databricks.",completed,0/3,10/09/2024,10/13/2024
+U0039,req_u0039@demo.edu,U0002,Seeking a recommendation for NYU. Thank you in advance.,NYU-JD Program,3,"Shows potential, needs guidance",,pending,1/3,3/15/2026,
+U0026,req_u0026@demo.edu,U0007,Requesting a recommendation for Caltech. Happy to provide details.,Caltech,5,"Hardworking, strong performer","I strongly recommend this individual for Caltech. Having worked closely with them, I can attest to their remarkable dedication and creative thinking and adaptability.
+
+They would thrive in this environment and make meaningful contributions to Caltech.",completed,1/3,2/06/2026,2/10/2026
+U0021,req_u0021@demo.edu,U0025,I'm pursuing an opportunity at Snowflake. Your endorsement would help.,Snowflake,4,"Quick learner, eager to grow",,pending,0/3,1/22/2025,
+U0039,req_u0039@demo.edu,U0050,Would appreciate your recommendation for my application to Stanford.,Stanford-MS Cybersecurity,2,Capable but unremarkable so far,,pending,0/3,2/11/2026,
+U0025,req_u0025@demo.edu,U0017,Applying to Nvidia. Your support would mean a lot to me.,Nvidia,5,"Organized, meets every deadline",,pending,0/3,10/07/2025,
+U0015,req_u0015@demo.edu,U0034,I'm pursuing an opportunity at Teaching Fellowship. Your endorsement would help.,Teaching Fellowship,5,"Natural leader, inspires others","I am writing to support this candidate's application to Teaching Fellowship. They possess a sharp intellectual curiosity that makes them stand out among their peers.
+
+Coupled with their a passion for continuous learning, I believe they are well-prepared for this opportunity at Teaching Fellowship.",completed,0/3,7/15/2024,7/25/2024
+U0007,req_u0007@demo.edu,U0037,Would you be willing to write a recommendation for my Apple application?,Apple,5,Dedicated and disciplined student,"I am writing to support this candidate's application to Apple. They possess impressive technical expertise that makes them stand out among their peers.
+
+Coupled with their exceptional teamwork, I believe they are well-prepared for this opportunity at Apple.",completed,0/3,10/02/2025,10/07/2025
+U0015,req_u0015@demo.edu,U0045,Would you be willing to write a recommendation for my MIT application?,MIT-PhD Computer Science,5,"Sharp analytical mind, fast learner","I am writing to support this candidate's application to MIT-PhD Computer Science. They possess impressive technical expertise that makes them stand out among their peers.
+
+Coupled with their a passion for continuous learning, I believe they are well-prepared for this opportunity at MIT.",completed,1/3,12/28/2024,1/04/2025
+U0050,req_u0050@demo.edu,U0010,I'm pursuing an opportunity at Teaching Fellowship. Your endorsement would help.,Teaching Fellowship,4,"Brilliant academic, curious mind",,pending,1/3,3/10/2025,
+U0004,req_u0004@demo.edu,U0023,I'm pursuing an opportunity at Caltech-PhD Physics. Your endorsement would help.,Caltech-PhD Physics,4,"Sharp analytical mind, fast learner","I am pleased to recommend this individual for Caltech-PhD Physics. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Caltech.",completed,0/3,1/13/2026,1/20/2026
+U0021,req_u0021@demo.edu,U0031,Could you recommend me for Fulbright Scholarship? Your perspective would carry weight.,Fulbright Scholarship,4,"Creative thinker, great collaborator","It is my pleasure to write this recommendation for Fulbright Scholarship. This candidate brings a sharp intellectual curiosity to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Fulbright Scholarship.",completed,1/3,7/16/2025,7/23/2025
+U0042,req_u0042@demo.edu,U0026,Would you be willing to write a recommendation for my Columbia application?,Columbia,3,"Decent effort, somewhat inconsistent","It is my pleasure to write this recommendation for Columbia. This candidate brings excellent communication skills to every challenge and consistently exceeds expectations.
+
+Their an ability to work well under pressure sets them apart from peers. I wholeheartedly support their application to Columbia.",completed,1/3,8/20/2025,8/23/2025
+U0019,req_u0019@demo.edu,U0050,Could you recommend me for Stripe? Your perspective would carry weight.,Stripe,4,Dedicated and disciplined student,,cancelled,1/3,2/19/2026,
+U0036,req_u0036@demo.edu,U0019,Would appreciate your recommendation for my application to Microsoft.,Microsoft,5,"Strong coder, delivers on time",,cancelled,0/3,10/20/2025,
+U0028,req_u0028@demo.edu,U0026,Applying to Cambridge-MS Cybersecurity and hoping you could provide a strong recommendation.,Cambridge-MS Cybersecurity,2,Struggles with deadlines,,completed,0/3,2/20/2026,2/24/2026
+U0041,req_u0041@demo.edu,U0016,I'm pursuing an opportunity at Netflix. Your endorsement would help.,Netflix,4,"Quick learner, eager to grow","It is my pleasure to write this recommendation for Netflix. This candidate brings strong analytical skills to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to Netflix.",completed,0/3,7/15/2025,7/22/2025
+U0042,req_u0042@demo.edu,U0026,Applying to Amazon and hoping you could provide a strong recommendation.,Amazon,4,"Solid technical skills, dependable","It is my pleasure to write this recommendation for Amazon. This candidate brings outstanding leadership qualities to every challenge and consistently exceeds expectations.
+
+Their strong initiative and self-motivation sets them apart from peers. I wholeheartedly support their application to Amazon.",completed,2/3,12/25/2025,1/01/2026
+U0038,req_u0038@demo.edu,U0050,Would you be willing to write a recommendation for my Startup Accelerator application?,Startup Accelerator,4,"Organized, meets every deadline","I am pleased to recommend this individual for Startup Accelerator. They have consistently demonstrated impressive technical expertise and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to Startup Accelerator.",completed,0/3,7/22/2025,8/01/2025
+U0041,req_u0041@demo.edu,U0025,Seeking a recommendation for Leadership Development Program. Thank you in advance.,Leadership Development Program,4,"Outstanding work ethic, consistent",,cancelled,1/3,1/10/2026,
+U0042,req_u0042@demo.edu,U0026,Would appreciate your recommendation for my application to Startup Accelerator.,Startup Accelerator,5,"Strong coder, delivers on time","I am writing to support this candidate's application to Startup Accelerator. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their a passion for continuous learning, I believe they are well-prepared for this opportunity at Startup Accelerator.",completed,0/3,5/14/2025,5/23/2025
+U0006,req_u0006@demo.edu,U0007,Could you recommend me for Duke? Your perspective would carry weight.,Duke,2,"Decent effort, somewhat inconsistent",,completed,0/3,7/28/2025,8/04/2025
+U0011,req_u0011@demo.edu,U0021,Applying to University of Toronto-MBA. Your support would mean a lot to me.,University of Toronto-MBA,2,"Adequate skills, improving steadily",,completed,2/3,5/17/2025,5/20/2025
+U0037,req_u0037@demo.edu,U0035,I need a recommendation for University of Michigan. Could you speak to my skills?,University of Michigan,3,"Adequate skills, improving steadily","It is my pleasure to write this recommendation for University of Michigan. This candidate brings impressive technical expertise to every challenge and consistently exceeds expectations.
+
+Their exceptional teamwork sets them apart from peers. I wholeheartedly support their application to University of Michigan.",completed,2/3,12/12/2024,12/21/2024
+U0041,req_u0041@demo.edu,U0025,Would appreciate your recommendation for my application to Wayne State University.,Wayne State University,4,"Strong coder, delivers on time","I am pleased to recommend this individual for Wayne State University. They have consistently demonstrated consistent high performance and a commitment to excellence in every endeavor.
+
+During our time working together, they showed a passion for continuous learning. I am confident they would be a valuable addition to Wayne State University.",completed,0/3,10/01/2024,10/04/2024
+U0033,req_u0033@demo.edu,U0009,Would appreciate your recommendation for my application to Palantir.,Palantir,3,"Average performer, room to grow",,cancelled,1/3,3/09/2025,
+U0034,req_u0034@demo.edu,U0012,I'm applying to Leadership Development Program and would really appreciate your recommendation.,Leadership Development Program,2,"Decent effort, somewhat inconsistent",,completed,0/3,1/12/2026,1/16/2026
+U0009,req_u0009@demo.edu,U0042,Applying to Summer Internship and hoping you could provide a strong recommendation.,Summer Internship,4,"Quick learner, eager to grow",,cancelled,0/3,10/28/2025,
+U0034,req_u0034@demo.edu,U0026,Applying to Fulbright Scholarship and hoping you could provide a strong recommendation.,Fulbright Scholarship,4,"Strong coder, delivers on time","I am pleased to recommend this individual for Fulbright Scholarship. They have consistently demonstrated outstanding leadership qualities and a commitment to excellence in every endeavor.
+
+During our time working together, they showed strong initiative and self-motivation. I am confident they would be a valuable addition to Fulbright Scholarship.",completed,0/3,11/13/2025,11/22/2025
+U0004,req_u0004@demo.edu,U0018,Seeking a recommendation for Tesla. Thank you in advance.,Tesla,3,"Adequate skills, improving steadily","I strongly recommend this individual for Tesla. Having worked closely with them, I can attest to their consistent high performance and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to Tesla.",completed,0/3,12/09/2024,12/19/2024
+U0010,req_u0010@demo.edu,U0042,Applying to NYU. Your support would mean a lot to me.,NYU-MS Statistics,4,"Sharp analytical mind, fast learner","It is my pleasure to write this recommendation for NYU-MS Statistics. This candidate brings exceptional problem-solving abilities to every challenge and consistently exceeds expectations.
+
+Their creative thinking and adaptability sets them apart from peers. I wholeheartedly support their application to NYU.",completed,0/3,6/09/2025,6/17/2025
+U0034,req_u0034@demo.edu,U0017,Applying to Wayne State University-JD Program. Your support would mean a lot to me.,Wayne State University-JD Program,2,"Average performer, room to grow",,completed,2/3,11/01/2024,11/10/2024
+U0042,req_u0042@demo.edu,U0001,Seeking a recommendation for Nvidia. Thank you in advance.,Nvidia,4,"Organized, meets every deadline","I am pleased to recommend this individual for Nvidia. They have consistently demonstrated a sharp intellectual curiosity and a commitment to excellence in every endeavor.
+
+During our time working together, they showed an ability to work well under pressure. I am confident they would be a valuable addition to Nvidia.",completed,0/3,10/12/2025,10/18/2025
+U0006,req_u0006@demo.edu,U0025,Would appreciate your recommendation for my application to Microsoft.,Microsoft,3,"Innovative thinker, proactive","I strongly recommend this individual for Microsoft. Having worked closely with them, I can attest to their impressive technical expertise and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to Microsoft.",completed,0/3,10/01/2025,10/04/2025
+U0019,req_u0019@demo.edu,U0041,Could you recommend me for University of Toronto-MD Program? Your perspective would carry weight.,University of Toronto-MD Program,4,"Hardworking, strong performer","I strongly recommend this individual for University of Toronto-MD Program. Having worked closely with them, I can attest to their excellent communication skills and a passion for continuous learning.
+
+They would thrive in this environment and make meaningful contributions to University of Toronto.",completed,2/3,2/11/2026,2/16/2026
+U0020,req_u0020@demo.edu,U0003,I'm pursuing an opportunity at Palantir. Your endorsement would help.,Palantir,3,"Strong problem solver, persistent",,pending,1/3,8/20/2024,
+U0014,req_u0014@demo.edu,U0046,Requesting a recommendation for UC Berkeley. Happy to provide details.,UC Berkeley,5,"Quick learner, eager to grow",,pending,0/3,8/06/2025,
+U0035,req_u0035@demo.edu,U0042,Applying to Economics For Leaders Summer Program and hoping you could provide a strong recommendation.,Economics For Leaders Summer Program,3,"Outstanding work ethic, consistent","I strongly recommend this individual for Economics For Leaders Summer Program. Having worked closely with them, I can attest to their impressive technical expertise and the ability to tackle complex problems with rigor.
+
+They would thrive in this environment and make meaningful contributions to Economics For Leaders Summer Program.",completed,0/3,1/20/2025,1/27/2025
+U0015,req_u0015@demo.edu,U0042,Could you recommend me for Oracle? Your perspective would carry weight.,Oracle,4,"Outstanding work ethic, consistent",,cancelled,0/3,1/23/2026,
+U0033,req_u0033@demo.edu,U0025,I need a recommendation for NYU. Could you speak to my skills?,NYU,4,"Hardworking, strong performer","I am writing to support this candidate's application to NYU. They possess exceptional problem-solving abilities that makes them stand out among their peers.
+
+Coupled with their an ability to work well under pressure, I believe they are well-prepared for this opportunity at NYU.",completed,0/3,2/13/2025,2/16/2025
+U0026,req_u0026@demo.edu,U0007,Requesting a recommendation for Caltech. Happy to provide details.,Caltech-MS Computer Science,4,"Sharp analytical mind, fast learner",,pending,1/3,8/25/2024,
+U0002,wimharrisryden1@gmail.com,U0025,Could you recommend me for Cornell? Your perspective would carry weight.,Cornell-MS Machine Learning,4,"Hardworking, strong performer",,pending,1/3,3/04/2026,
+U0041,req_u0041@demo.edu,U0006,Seeking a recommendation for Penn State. Thank you in advance.,Penn State,3,"Quick learner, eager to grow","I am writing to support this candidate's application to Penn State. They possess remarkable dedication that makes them stand out among their peers.
+
+Coupled with their creative thinking and adaptability, I believe they are well-prepared for this opportunity at Penn State.",completed,1/3,9/22/2025,10/02/2025
+U0004,req_u0004@demo.edu,U0045,I'm pursuing an opportunity at Snowflake. Your endorsement would help.,Snowflake,3,"Quick learner, eager to grow",,pending,2/3,12/30/2025,
+U0034,req_u0034@demo.edu,U0031,I need a recommendation for IBM. Could you speak to my skills?,IBM,1,Needs improvement in communication,,cancelled,1/3,12/05/2025,
+U0050,req_u0050@demo.edu,U0032,Would appreciate your recommendation for my application to University of Illinois.,University of Illinois-MS Electrical Engineering,5,"Organized, meets every deadline","I am pleased to recommend this individual for University of Illinois-MS Electrical Engineering. They have consistently demonstrated consistent high performance and a commitment to excellence in every endeavor.
+
+During our time working together, they showed remarkable growth over a short period. I am confident they would be a valuable addition to University of Illinois.",completed,0/3,11/18/2025,11/22/2025
+U0041,req_u0041@demo.edu,U0017,I need a recommendation for Google. Could you speak to my skills?,Google,4,"Strong coder, delivers on time",,pending,0/3,2/02/2026,
+U0029,req_u0029@demo.edu,U0035,I need a recommendation for Salesforce. Could you speak to my skills?,Salesforce,3,"Average performer, room to grow","I am writing to support this candidate's application to Salesforce. They possess a sharp intellectual curiosity that makes them stand out among their peers.
+
+Coupled with their exceptional teamwork, I believe they are well-prepared for this opportunity at Salesforce.",completed,1/3,8/22/2025,8/30/2025
+U0009,req_u0009@demo.edu,U0026,Could you recommend me for Vanderbilt? Your perspective would carry weight.,Vanderbilt,5,"Solid technical skills, dependable","I am writing to support this candidate's application to Vanderbilt. They possess outstanding leadership qualities that makes them stand out among their peers.
+
+Coupled with their remarkable growth over a short period, I believe they are well-prepared for this opportunity at Vanderbilt.",completed,1/3,3/06/2025,3/12/2025
+U0005,req_u0005@demo.edu,U0046,Applying to Georgia Tech and hoping you could provide a strong recommendation.,Georgia Tech-MS Finance,2,"Mediocre effort, inconsistent",,pending,0/3,2/28/2026,

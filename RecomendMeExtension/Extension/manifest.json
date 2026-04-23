@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "RecommendMe Rating Predictor",
+  "version": "1.1.0",
+  "description": "Predict recipient star rating for a requester",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1:8000/*",
+    "http://localhost:8000/*"
+  ]
+}

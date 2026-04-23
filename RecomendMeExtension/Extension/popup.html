@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RecomendMe+</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="wrap">
+    <h2>RecomendMe+</h2>
+
+    <div class="instructions">
+      <div class="instructions-title">Instructions</div>
+      <ol>
+        <li>Open your recommendation request.</li>
+        <li>Make sure all fields are filled.</li>
+        <li>Press Autofill and Predict.</li>
+      </ol>
+    </div>
+
+    <button id="predictBtn" type="button">Autofill and Predict</button>
+
+    <div id="status"></div>
+
+    <div id="result" class="hidden">
+      <p><strong>Predicted rating:</strong> <span id="ratingValue"></span></p>
+      <p><strong>Stars:</strong> <span id="starValue"></span></p>
+      <p><strong>Case:</strong> <span id="caseValue"></span></p>
+      <p><strong>Normalized requester:</strong> <span id="normalizedRequester"></span></p>
+      <p><strong>Normalized recommender:</strong> <span id="normalizedRecommender"></span></p>
+    </div>
+
+    <div id="graphSection" class="hidden">
+      <h3>Immediate Network</h3>
+
+      <div class="legend">
+        <span><span class="dot requester"></span>Requester</span>
+        <span><span class="dot recommender"></span>Recommender</span>
+        <span><span class="dot shared"></span>Shared</span>
+        <span><span class="dot neighbor"></span>Neighbor</span>
+      </div>
+
+      <div class="scaleCard">
+        <div class="scaleTitle">Node/Edge Color</div>
+        <div class="scaleSubtitle">Blue → Red by average star rating</div>
+        <div class="gradientBar"></div>
+        <div class="scaleLabels">
+          <span>1</span><span>2</span><span>3</span><span>4</span><span>5</span>
+        </div>
+      </div>
+
+      <div class="scaleCard">
+        <div class="scaleTitle">Edge Thickness</div>
+        <div class="scaleSubtitle">Thicker = higher rating on that connection</div>
+      </div>
+
+      <canvas id="graphCanvas" width="380" height="300"></canvas>
+      <div id="graphMeta"></div>
+    </div>
+
+    <div id="suggestionsSection" class="hidden">
+      <h3>Other recommenders you might know</h3>
+      <div id="suggestionsMeta" class="hidden"></div>
+      <div id="suggestionsList" class="suggestionsRow"></div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
