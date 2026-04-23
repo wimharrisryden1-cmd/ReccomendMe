@@ -1,25 +1,26 @@
-# Recommended environment:
-# pip install numpy==1.26.4 pandas scikit-learn joblib openpyxl
-# pip install scikit-surprise
+# Required packages (no scikit-surprise needed):
+# pip install numpy pandas scikit-learn joblib openpyxl
 
 import json
 import os
+import sys
 import joblib
 import pandas as pd
 import numpy as np
 
-from surprise import Dataset, Reader, SVD
-from surprise.model_selection import train_test_split as surprise_train_test_split
-
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.ensemble import GradientBoostingRegressor
+
+# Import our surprise-free SVD so the saved joblib can be loaded by app.py
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "Backend"))
+from svd_model import SVDModel  # noqa: E402
 
 
 # =========================
 # CONFIG
 # =========================
-CSV_PATH = "C:\\Users\\willi\\RecomendMeExtension\\data_recommendme.csv"   # update if needed
-EXPORT_DIR = "exported_rating_model"
+CSV_PATH = os.path.join(os.path.dirname(__file__), "data_recommendme.csv")
+EXPORT_DIR = os.path.join(os.path.dirname(__file__), "exported_rating_model")
 
 
 # =========================
@@ -28,19 +29,13 @@ EXPORT_DIR = "exported_rating_model"
 df = pd.read_csv(CSV_PATH)
 df.columns = [str(c).strip().lower() for c in df.columns]
 
-required_cols = [
-    "requester_id",
-    "recommender_id",
-    "recomender_star_rating"
-]
-
+required_cols = ["requester_id", "recommender_id", "recomender_star_rating"]
 for col in required_cols:
     if col not in df.columns:
         raise ValueError(f"Missing required column: {col}")
 
 if "requestor_notes" not in df.columns:
     df["requestor_notes"] = ""
-
 if "requester_email" not in df.columns:
     df["requester_email"] = ""
 
@@ -61,29 +56,17 @@ if len(df) == 0:
 
 
 # =========================
-# TRAIN SVD MODEL
+# TRAIN SVD MODEL (no surprise dependency)
 # =========================
-reader = Reader(rating_scale=(1, 5))
-surprise_data = Dataset.load_from_df(
-    df[["recommender_id", "requester_id", "recomender_star_rating"]],
-    reader
-)
+ratings = list(zip(
+    df["recommender_id"].tolist(),
+    df["requester_id"].tolist(),
+    df["recomender_star_rating"].tolist()
+))
 
-trainset, testset = surprise_train_test_split(
-    surprise_data,
-    test_size=0.2,
-    random_state=42
-)
-
-svd_model = SVD(
-    n_factors=40,
-    n_epochs=100,
-    lr_all=0.005,
-    reg_all=0.15,
-    random_state=42
-)
-
-svd_model.fit(trainset)
+svd_model = SVDModel(n_factors=40, n_epochs=100, lr_all=0.005, reg_all=0.15, random_state=42)
+svd_model.fit(ratings)
+print("SVD training complete.")
 
 
 # =========================
@@ -95,13 +78,10 @@ recommender_avg = df.groupby("recommender_id")["recomender_star_rating"].mean().
 
 
 # =========================
-# REAL EMAIL -> REQUESTER ID MAP
+# EMAIL -> ID MAPS
 # =========================
-# Keeps first non-empty email per requester_id
 requester_email_to_id = {}
-
 email_rows = df.loc[df["requester_email"] != "", ["requester_email", "requester_id"]].drop_duplicates()
-
 for _, row in email_rows.iterrows():
     email = row["requester_email"]
     uid = row["requester_id"]
@@ -109,14 +89,10 @@ for _, row in email_rows.iterrows():
         requester_email_to_id[email] = uid
 
 
-# =========================
-# DUMMY RECOMMENDER EMAILS
-# =========================
 def make_dummy_email(uid: str, prefix: str) -> str:
-    uid = str(uid).strip().lower()
-    if not uid:
-        uid = "unknown"
+    uid = str(uid).strip().lower() or "unknown"
     return f"{prefix}_{uid}@demo.edu"
+
 
 recommender_email_to_id = {
     make_dummy_email(uid, "rec"): uid for uid in recommender_avg.keys()
@@ -126,23 +102,13 @@ recommender_email_to_id = {
 # =========================
 # COLD-START TEXT MODEL
 # =========================
-tfidf = TfidfVectorizer(
-    stop_words="english",
-    max_features=1000,
-    ngram_range=(1, 2)
-)
-
+tfidf = TfidfVectorizer(stop_words="english", max_features=1000, ngram_range=(1, 2))
 X_cold = tfidf.fit_transform(df["requestor_notes"]).toarray()
 y_cold = df["recomender_star_rating"].values
 
-cold_model = GradientBoostingRegressor(
-    n_estimators=200,
-    learning_rate=0.05,
-    max_depth=3,
-    random_state=42
-)
-
+cold_model = GradientBoostingRegressor(n_estimators=200, learning_rate=0.05, max_depth=3, random_state=42)
 cold_model.fit(X_cold, y_cold)
+print("Cold-start model training complete.")
 
 
 # =========================
@@ -169,9 +135,11 @@ with open(os.path.join(EXPORT_DIR, "requester_email_to_id.json"), "w", encoding=
 with open(os.path.join(EXPORT_DIR, "recommender_email_to_id.json"), "w", encoding="utf-8") as f:
     json.dump(recommender_email_to_id, f, indent=2)
 
+print(f"Export complete → {EXPORT_DIR}")
+
 
 # =========================
-# LOCAL TEST FUNCTION
+# LOCAL TEST
 # =========================
 def normalize_requester(value: str) -> str:
     value = str(value).strip()
@@ -179,11 +147,13 @@ def normalize_requester(value: str) -> str:
         return value.upper()
     return requester_email_to_id.get(value.lower(), value)
 
+
 def normalize_recommender(value: str) -> str:
     value = str(value).strip()
     if value.upper().startswith("U"):
         return value.upper()
     return recommender_email_to_id.get(value.lower(), value)
+
 
 def score_pair_svd(requester_id, recommender_id, requestor_note=""):
     requester_id = normalize_requester(requester_id)
@@ -207,12 +177,8 @@ def score_pair_svd(requester_id, recommender_id, requestor_note=""):
         case = "cold_start"
 
     pred = float(np.clip(pred, 1, 5))
+    return {"predicted_rating": round(pred, 2), "predicted_star_rating": int(round(pred)), "case": case}
 
-    return {
-        "predicted_rating": round(pred, 2),
-        "predicted_star_rating": int(round(pred)),
-        "case": case
-    }
 
-print("Export complete.")
-print("Example:", score_pair_svd("wimharrisryden1@gmail.com", "U0023", "hiii"))
+if __name__ == "__main__":
+    print("Example:", score_pair_svd("wimharrisryden1@gmail.com", "U0023", "hiii"))

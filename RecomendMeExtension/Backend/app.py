@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 
 from fastapi import FastAPI
+from svd_model import SVDModel  # noqa: F401 — required for joblib deserialization
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
